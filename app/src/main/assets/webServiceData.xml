@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xsi:noNamespaceSchemaLocation="http://www.poznan.pl/mim/xmlschema/sit-wlkp/events.xsd" xmlns="http://sit-wlkp.eu/xmlrepo/events.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <event>
+        <event_id>109997</event_id>
+        <event_created>2019-04-26 12:04:11</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spektakl-goscinny-kolacja-na-4-rece,109997.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spektakl gościnny - Kolacja na 4 ręce]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Aromat świeżych warzyw i owoców, pachnąca zupa grzybowa oraz najbardziej wyszukane gatunki owoców morza - barokowy przepych &quot;Kolacji na cztery ręce&quot; może oszałamiać. Do stołu, a właściwie do fortepianu zasiada dwóch wielkich kompozytorów XVIII wieku - Jerzy Fryderyk Haendel (Emilian Kamiński) i Jan Sebastian Bach (Olaf Lubaszenko). Ich słownemu pojedynkowi przygląda się tajemniczy i dowcipny miłośnik opery, kamerdyner Schmidt (Maciej Miecznikowski).</p><p>Dwaj muzyczni geniusze, dwa skrajnie różne charaktery. Pierwszy - miłośnik londyńskich salonów, bogaty i wpływowy, ulubieniec królów. Drugi - skromny, biedny, ale uznany i szanowany. Urodzeni w tym samym roku, doskonale znali nawzajem swoją twórczość, lecz nigdy się nie spotkali. Czy pod wyszukanymi strojami i kunsztownymi perukami mogą się kryć zwykłe ludzkie słabości?</p><p>Paul Barz, niemiecki dramatopisarz i muzykolog, poddaje obu wirtuozów uważnej analizie. Fikcyjne spotkanie tych dwóch postaci stanowi okazję do refleksji nad zaskakująco współczesnymi problemami. Czy pogoń za sukcesem, władzą i wpływami może dać człowiekowi szczęście? Jaka jest cena sławy? Czy sztukę można wycenić?</p><p>&quot;Kolacja na cztery ręce&quot; w reżyserii Krzysztofa Jasińskiego to przedstawienie szlachetne, budzące salwy szczerego śmiechu. Nacisk został w nim położony na zaprezentowanie aktorskiego kunsztu, żywy kontakt z publicznością i przypomnienie Widzom, czym może być teatr.</p><p>Spektakl był już kilkakrotnie wystawiany, m.in. w krakowskim Teatrze STU (także w reżyserii Krzysztofa Jasińskiego) a jego telewizyjna adaptacja (reż K. Kutz) znalazła się w Złotej Setce Teatru Telewizji.</p><p><em>Kluczem do sukcesu jest obsada (...) W Kamienicy dysponuję wybitnymi aktorami czującymi muzykę, a przede wszystkim obdarzonymi poczuciem humoru. Dlatego spodziewam się dobrej współpracy - mówi o spektaklu Krzysztof Jasiński.</em></p><p>&quot;Kolacja na cztery ręce&quot; została zaprezentowana po raz pierwszy podczas XX edycji Festiwalu Gwiazd w Międzyzdrojach. Zapraszamy do zapoznania się z relacją Bohdana Gadomskiego (&quot;Angora&quot; nr 29/2015):<em>&#160; (...)Po raz kolejny reżyserii tej sztuki podjął się Krzysztof Jasiński, a w sposób wręcz mistrzowski zagrali Emilian Kamiński i Olaf Lubaszenko (...) Zaskoczył mnie znany piosenkarz Maciej Miecznikowski (...) fantastycznie uzupełniający parę głównych bohaterów. Dla całej trójki pokłony i brawa!</em></p><p>Autor:</p><ul><li><span>Paul Barz</span></li></ul><p>Reżyseria:</p><ul><li><span>Krzysztof Jasiński</span></li></ul><p>Obsada :</p><ul><li><span>Emilian Kamiński</span></li><li><span>Olaf Lubaszenko</span></li><li><span>Maciej Miecznikowski</span></li></ul><p>Bilety w cenach 79, 99 i 129 zł (w zależności od miejsca).</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Teatr Wielki im. Stanisława Moniuszki, ul. Aleksandra Fredry 9, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-04-26 12:04:30</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>109997</event_id>
+        <event_created>2019-04-26 12:04:11</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spektakl-goscinny-kolacja-na-4-rece,109997.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spektakl gościnny - Kolacja na 4 ręce]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Aromat świeżych warzyw i owoców, pachnąca zupa grzybowa oraz najbardziej wyszukane gatunki owoców morza - barokowy przepych &quot;Kolacji na cztery ręce&quot; może oszałamiać. Do stołu, a właściwie do fortepianu zasiada dwóch wielkich kompozytorów XVIII wieku - Jerzy Fryderyk Haendel (Emilian Kamiński) i Jan Sebastian Bach (Olaf Lubaszenko). Ich słownemu pojedynkowi przygląda się tajemniczy i dowcipny miłośnik opery, kamerdyner Schmidt (Maciej Miecznikowski).</p><p>Dwaj muzyczni geniusze, dwa skrajnie różne charaktery. Pierwszy - miłośnik londyńskich salonów, bogaty i wpływowy, ulubieniec królów. Drugi - skromny, biedny, ale uznany i szanowany. Urodzeni w tym samym roku, doskonale znali nawzajem swoją twórczość, lecz nigdy się nie spotkali. Czy pod wyszukanymi strojami i kunsztownymi perukami mogą się kryć zwykłe ludzkie słabości?</p><p>Paul Barz, niemiecki dramatopisarz i muzykolog, poddaje obu wirtuozów uważnej analizie. Fikcyjne spotkanie tych dwóch postaci stanowi okazję do refleksji nad zaskakująco współczesnymi problemami. Czy pogoń za sukcesem, władzą i wpływami może dać człowiekowi szczęście? Jaka jest cena sławy? Czy sztukę można wycenić?</p><p>&quot;Kolacja na cztery ręce&quot; w reżyserii Krzysztofa Jasińskiego to przedstawienie szlachetne, budzące salwy szczerego śmiechu. Nacisk został w nim położony na zaprezentowanie aktorskiego kunsztu, żywy kontakt z publicznością i przypomnienie Widzom, czym może być teatr.</p><p>Spektakl był już kilkakrotnie wystawiany, m.in. w krakowskim Teatrze STU (także w reżyserii Krzysztofa Jasińskiego) a jego telewizyjna adaptacja (reż K. Kutz) znalazła się w Złotej Setce Teatru Telewizji.</p><p><em>Kluczem do sukcesu jest obsada (...) W Kamienicy dysponuję wybitnymi aktorami czującymi muzykę, a przede wszystkim obdarzonymi poczuciem humoru. Dlatego spodziewam się dobrej współpracy - mówi o spektaklu Krzysztof Jasiński.</em></p><p>&quot;Kolacja na cztery ręce&quot; została zaprezentowana po raz pierwszy podczas XX edycji Festiwalu Gwiazd w Międzyzdrojach. Zapraszamy do zapoznania się z relacją Bohdana Gadomskiego (&quot;Angora&quot; nr 29/2015):<em>&#160; (...)Po raz kolejny reżyserii tej sztuki podjął się Krzysztof Jasiński, a w sposób wręcz mistrzowski zagrali Emilian Kamiński i Olaf Lubaszenko (...) Zaskoczył mnie znany piosenkarz Maciej Miecznikowski (...) fantastycznie uzupełniający parę głównych bohaterów. Dla całej trójki pokłony i brawa!</em></p><p>Autor:</p><ul><li><span>Paul Barz</span></li></ul><p>Reżyseria:</p><ul><li><span>Krzysztof Jasiński</span></li></ul><p>Obsada :</p><ul><li><span>Emilian Kamiński</span></li><li><span>Olaf Lubaszenko</span></li><li><span>Maciej Miecznikowski</span></li></ul><p>Bilety w cenach 79, 99 i 129 zł (w zależności od miejsca).</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Teatr Wielki im. Stanisława Moniuszki, ul. Aleksandra Fredry 9, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-04-26 12:04:30</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>111746</event_id>
+        <event_created>2019-07-25 11:11:08</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/koncert-omnium-gatherum,111746.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Koncert Omnium Gatherum]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>W roli supportu, zaprezentują się kapele Hamferd i Heidra.</p><p>Omnium Gatherum zagrali niedawno w naszym kraju, podczas MYSTIC FESTIVAL 2019 w Krakowie. Już jesienią, zespół wróci do Polski na klubowy koncert w Poznaniu, gdzie towarzyszyć im będą grupy Hamferd oraz Heidra. Dyskografię Omnium Gatherum zamyka album &quot;The Burning Cold&quot;, wydany w sierpniu 2018, nakładem Century Media Records.</p><p>Zespół Hamferd pochodzi z Wysp Owczych i półtora roku temu nagrał swój trzeci album, zatytułowany &quot;Tamsin Likam&quot;. Krążek zawiera sześć utworów kapeli, z których wszystkie napisane zostały w języku fińskim, a wydawnictwo ukazało się nakładem wytwórni Metal Blade Records.</p><p>Duńska formacja Heidra, także wydała swój najświeższy - drugi już krążek, w 2018 roku. Płyta otrzymała tytuł &quot;The Blackening Tide&quot; i ukazała się za pośrednictwem wytwórni Time To Kill Records.</p><p>Bilety w cenie 80 zł.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Klub U Bazyla, ul. Norwida 18A, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:30:00</event_start>
+        <event_end/>
+        <event_modified>2019-07-25 11:13:54</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>111746</event_id>
+        <event_created>2019-07-25 11:11:08</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/koncert-omnium-gatherum,111746.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Koncert Omnium Gatherum]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>W roli supportu, zaprezentują się kapele Hamferd i Heidra.</p><p>Omnium Gatherum zagrali niedawno w naszym kraju, podczas MYSTIC FESTIVAL 2019 w Krakowie. Już jesienią, zespół wróci do Polski na klubowy koncert w Poznaniu, gdzie towarzyszyć im będą grupy Hamferd oraz Heidra. Dyskografię Omnium Gatherum zamyka album &quot;The Burning Cold&quot;, wydany w sierpniu 2018, nakładem Century Media Records.</p><p>Zespół Hamferd pochodzi z Wysp Owczych i półtora roku temu nagrał swój trzeci album, zatytułowany &quot;Tamsin Likam&quot;. Krążek zawiera sześć utworów kapeli, z których wszystkie napisane zostały w języku fińskim, a wydawnictwo ukazało się nakładem wytwórni Metal Blade Records.</p><p>Duńska formacja Heidra, także wydała swój najświeższy - drugi już krążek, w 2018 roku. Płyta otrzymała tytuł &quot;The Blackening Tide&quot; i ukazała się za pośrednictwem wytwórni Time To Kill Records.</p><p>Bilety w cenie 80 zł.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Klub U Bazyla, ul. Norwida 18A, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:30:00</event_start>
+        <event_end/>
+        <event_modified>2019-07-25 11:13:54</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112216</event_id>
+        <event_created>2019-08-27 16:00:22</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spektakl-dla-dzieci-chodz-na-slowko-3,112216.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spektakl dla dzieci - Chodź na słówko 3]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p><em><strong>&quot;Chodź na słówko 3&quot;</strong></em><br />Centrum Sztuki Dziecka w Poznaniu, Teatr Nowy im. T. Łomnickiego w Poznaniu</p><p>Piłka i Futrzak, a właściwie Kula i Toperz czyli słowa źle wypowiedziane przez małą dziewczynkę i mające kłopoty z tożsamością w pierwszej części &quot;Chodź na słówko&quot;, mają już własne i to całkiem duże dzieci - literki, które pewnego dnia znikają z domu, pozostawiając rodzicom krótki list.Na ich niełatwe poszukiwanie tato Toperz wybiera się w towarzystwie sympatycznego, choć nieco nietypowego przyjaciela domu; jego prawdziwe imię poznaliśmy w części drugiej.<br />Czy uda się im się odnaleźć utracone pociechy, których powrotu z utęsknieniem wypatruje mama Piłka? Jedno jest pewne: czeka ich wiele zabawnych i pouczających przygód oraz spotkań z oryginalnymi, aczkolwiek bardzo przydatnymi w poszukiwaniach postaciami. Przedstawienie przeznaczone jest dla widzów od 7 lat, lecz jego humor i przesłanie trafią, podobnie jak poprzednio, także do starszych dzieci i dorosłych.</p><p>Twórcy:</p><ul><li><span>Tekst: Malina Prześluga</span></li><li><span>Reżyseria: Jerzy Moszkowicz</span></li><li><span>Scenografia:&#160;Jakub Psuja wg koncepcji Jacka Zagajewskiego</span></li><li><span>Muzyka: Mariusz Matuszewski</span></li><li><span>Choreografia: Paulina Wycichowska</span></li><li><span>Występują: Anna Mierzwa, Michał Kocurek, Radosław Elis (gościnnie aktor Teatru Muzycznego w Poznaniu)</span></li></ul><p>Czas trwania: 60 min.</p><p>Bilety w cenie 20 zł, (10 zł z KRD lub KS)</p><p>Bilet powinien mieć każdy widz, niezależnie od wieku (dziecko, rodzic, opiekun).</p><p>Szanowni Widzowie!<br />Organizatorzy informują, że osoby spóźnione nie będą wpuszczane na wydarzenie, a także nie&#160;otrzymają zwrotu pieniędzy za niewykorzystane bilety.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Scena Wspólna, ul.Brandstaettera 1 / ul. Za Cytadelą, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 10:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-08-27 16:00:22</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112216</event_id>
+        <event_created>2019-08-27 16:00:22</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spektakl-dla-dzieci-chodz-na-slowko-3,112216.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spektakl dla dzieci - Chodź na słówko 3]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p><em><strong>&quot;Chodź na słówko 3&quot;</strong></em><br />Centrum Sztuki Dziecka w Poznaniu, Teatr Nowy im. T. Łomnickiego w Poznaniu</p><p>Piłka i Futrzak, a właściwie Kula i Toperz czyli słowa źle wypowiedziane przez małą dziewczynkę i mające kłopoty z tożsamością w pierwszej części &quot;Chodź na słówko&quot;, mają już własne i to całkiem duże dzieci - literki, które pewnego dnia znikają z domu, pozostawiając rodzicom krótki list.Na ich niełatwe poszukiwanie tato Toperz wybiera się w towarzystwie sympatycznego, choć nieco nietypowego przyjaciela domu; jego prawdziwe imię poznaliśmy w części drugiej.<br />Czy uda się im się odnaleźć utracone pociechy, których powrotu z utęsknieniem wypatruje mama Piłka? Jedno jest pewne: czeka ich wiele zabawnych i pouczających przygód oraz spotkań z oryginalnymi, aczkolwiek bardzo przydatnymi w poszukiwaniach postaciami. Przedstawienie przeznaczone jest dla widzów od 7 lat, lecz jego humor i przesłanie trafią, podobnie jak poprzednio, także do starszych dzieci i dorosłych.</p><p>Twórcy:</p><ul><li><span>Tekst: Malina Prześluga</span></li><li><span>Reżyseria: Jerzy Moszkowicz</span></li><li><span>Scenografia:&#160;Jakub Psuja wg koncepcji Jacka Zagajewskiego</span></li><li><span>Muzyka: Mariusz Matuszewski</span></li><li><span>Choreografia: Paulina Wycichowska</span></li><li><span>Występują: Anna Mierzwa, Michał Kocurek, Radosław Elis (gościnnie aktor Teatru Muzycznego w Poznaniu)</span></li></ul><p>Czas trwania: 60 min.</p><p>Bilety w cenie 20 zł, (10 zł z KRD lub KS)</p><p>Bilet powinien mieć każdy widz, niezależnie od wieku (dziecko, rodzic, opiekun).</p><p>Szanowni Widzowie!<br />Organizatorzy informują, że osoby spóźnione nie będą wpuszczane na wydarzenie, a także nie&#160;otrzymają zwrotu pieniędzy za niewykorzystane bilety.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Scena Wspólna, ul.Brandstaettera 1 / ul. Za Cytadelą, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 10:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-08-27 16:00:22</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112212</event_id>
+        <event_created>2019-08-27 14:38:48</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spektakl-dla-dzieci-chodz-na-slowko-3,112212.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spektakl dla dzieci - Chodź na słówko 3]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p><em><strong>&quot;Chodź na słówko 3&quot;</strong></em><br />Centrum Sztuki Dziecka w Poznaniu, Teatr Nowy im. T. Łomnickiego w Poznaniu</p><p>Piłka i Futrzak, a właściwie Kula i Toperz czyli słowa źle wypowiedziane przez małą dziewczynkę i mające kłopoty z tożsamością w pierwszej części &quot;Chodź na słówko&quot;, mają już własne i to całkiem duże dzieci - literki, które pewnego dnia znikają z domu, pozostawiając rodzicom krótki list.Na ich niełatwe poszukiwanie tato Toperz wybiera się w towarzystwie sympatycznego, choć nieco nietypowego przyjaciela domu; jego prawdziwe imię poznaliśmy w części drugiej.<br />Czy uda się im się odnaleźć utracone pociechy, których powrotu z utęsknieniem wypatruje mama Piłka? Jedno jest pewne: czeka ich wiele zabawnych i pouczających przygód oraz spotkań z oryginalnymi, aczkolwiek bardzo przydatnymi w poszukiwaniach postaciami. Przedstawienie przeznaczone jest dla widzów od 7 lat, lecz jego humor i przesłanie trafią, podobnie jak poprzednio, także do starszych dzieci i dorosłych.</p><p>Twórcy:</p><ul><li><span>Tekst: Malina Prześluga</span></li><li><span>Reżyseria: Jerzy Moszkowicz</span></li><li><span>Scenografia:&#160;Jakub Psuja wg koncepcji Jacka Zagajewskiego</span></li><li><span>Muzyka: Mariusz Matuszewski</span></li><li><span>Choreografia: Paulina Wycichowska</span></li><li><span>Występują: Anna Mierzwa, Michał Kocurek, Radosław Elis (gościnnie aktor Teatru Muzycznego w Poznaniu)</span></li></ul><p>Czas trwania: 60 min.</p><p>Bilety w cenie 20 zł, (10 zł z KRD lub KS)</p><p>Bilet powinien mieć każdy widz, niezależnie od wieku (dziecko, rodzic, opiekun).</p><p>Szanowni Widzowie!<br />Organizatorzy informują, że osoby spóźnione nie będą wpuszczane na wydarzenie, a także nie&#160;otrzymają zwrotu pieniędzy za niewykorzystane bilety.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Scena Wspólna, ul.Brandstaettera 1 / ul. Za Cytadelą, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 12:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-08-27 14:38:48</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112212</event_id>
+        <event_created>2019-08-27 14:38:48</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spektakl-dla-dzieci-chodz-na-slowko-3,112212.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spektakl dla dzieci - Chodź na słówko 3]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p><em><strong>&quot;Chodź na słówko 3&quot;</strong></em><br />Centrum Sztuki Dziecka w Poznaniu, Teatr Nowy im. T. Łomnickiego w Poznaniu</p><p>Piłka i Futrzak, a właściwie Kula i Toperz czyli słowa źle wypowiedziane przez małą dziewczynkę i mające kłopoty z tożsamością w pierwszej części &quot;Chodź na słówko&quot;, mają już własne i to całkiem duże dzieci - literki, które pewnego dnia znikają z domu, pozostawiając rodzicom krótki list.Na ich niełatwe poszukiwanie tato Toperz wybiera się w towarzystwie sympatycznego, choć nieco nietypowego przyjaciela domu; jego prawdziwe imię poznaliśmy w części drugiej.<br />Czy uda się im się odnaleźć utracone pociechy, których powrotu z utęsknieniem wypatruje mama Piłka? Jedno jest pewne: czeka ich wiele zabawnych i pouczających przygód oraz spotkań z oryginalnymi, aczkolwiek bardzo przydatnymi w poszukiwaniach postaciami. Przedstawienie przeznaczone jest dla widzów od 7 lat, lecz jego humor i przesłanie trafią, podobnie jak poprzednio, także do starszych dzieci i dorosłych.</p><p>Twórcy:</p><ul><li><span>Tekst: Malina Prześluga</span></li><li><span>Reżyseria: Jerzy Moszkowicz</span></li><li><span>Scenografia:&#160;Jakub Psuja wg koncepcji Jacka Zagajewskiego</span></li><li><span>Muzyka: Mariusz Matuszewski</span></li><li><span>Choreografia: Paulina Wycichowska</span></li><li><span>Występują: Anna Mierzwa, Michał Kocurek, Radosław Elis (gościnnie aktor Teatru Muzycznego w Poznaniu)</span></li></ul><p>Czas trwania: 60 min.</p><p>Bilety w cenie 20 zł, (10 zł z KRD lub KS)</p><p>Bilet powinien mieć każdy widz, niezależnie od wieku (dziecko, rodzic, opiekun).</p><p>Szanowni Widzowie!<br />Organizatorzy informują, że osoby spóźnione nie będą wpuszczane na wydarzenie, a także nie&#160;otrzymają zwrotu pieniędzy za niewykorzystane bilety.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Scena Wspólna, ul.Brandstaettera 1 / ul. Za Cytadelą, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 12:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-08-27 14:38:48</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112926</event_id>
+        <event_created>2019-09-25 15:57:54</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/lazarz-dla-seniorow-bezplatne-treningi,112926.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Łazarz dla seniorów - bezpłatne treningi]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Organizatorzy zapraszają seniorów na bezpłatne treningi zdrowotne, które poprawią sprawność i wydolność fizyczną.<br />Zajęcia poprowadzi certyfikowana trenerka oraz pedagożka - Marta Kotecka.<br />Terminy:<br />Październik, dwa razy w tygodniu we wtorki i piątki: 1, 4, 8, 11, 15, 18, 22, 25.<br />Zawsze w godzinach 11:00-11:45.<br />Miejsce:<br />Polana &quot;przy górce&quot; w Parku Kasprowicza<br />W razie niepogody zajęcia będą odbywały się w MDK nr 3 przy ul. Jarochowskiego.<br />Czego potrzebujesz:<br />Chęci i dobrego humoru! Oraz wygodnego stroju i obuwia na zmianę - w razie niepogody.<br />Zdrowy senior:<br />Organizatorzy zapraszają na spotkanie ze znaną i lubianą dziennikarką telewizyjną - Katarzyną Bosacką 5 października o godz. 15. Podczas spotkania uczestnicy dowiedzą się, jak powinni się odżywiać oraz jakie produkty wybierać, żeby dłużej zachować zdrowie.</p><p>Liczba miejsc ograniczona - bezpłatne zapisy pod nr. telefonu: 606752322.<br />Sfinansowano ze środków budżetowych Miasta Poznania.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Park Jana Kasprowicza w Poznaniu</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 11:00:00</event_start>
+        <event_end>2019-10-25 00:00:00</event_end>
+        <event_modified>2019-09-25 15:57:54</event_modified>
+        <category>Sport</category>
+    </event>
+    <event>
+        <event_id>112926</event_id>
+        <event_created>2019-09-25 15:57:54</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/lazarz-dla-seniorow-bezplatne-treningi,112926.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Łazarz dla seniorów - bezpłatne treningi]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Organizatorzy zapraszają seniorów na bezpłatne treningi zdrowotne, które poprawią sprawność i wydolność fizyczną.<br />Zajęcia poprowadzi certyfikowana trenerka oraz pedagożka - Marta Kotecka.<br />Terminy:<br />Październik, dwa razy w tygodniu we wtorki i piątki: 1, 4, 8, 11, 15, 18, 22, 25.<br />Zawsze w godzinach 11:00-11:45.<br />Miejsce:<br />Polana &quot;przy górce&quot; w Parku Kasprowicza<br />W razie niepogody zajęcia będą odbywały się w MDK nr 3 przy ul. Jarochowskiego.<br />Czego potrzebujesz:<br />Chęci i dobrego humoru! Oraz wygodnego stroju i obuwia na zmianę - w razie niepogody.<br />Zdrowy senior:<br />Organizatorzy zapraszają na spotkanie ze znaną i lubianą dziennikarką telewizyjną - Katarzyną Bosacką 5 października o godz. 15. Podczas spotkania uczestnicy dowiedzą się, jak powinni się odżywiać oraz jakie produkty wybierać, żeby dłużej zachować zdrowie.</p><p>Liczba miejsc ograniczona - bezpłatne zapisy pod nr. telefonu: 606752322.<br />Sfinansowano ze środków budżetowych Miasta Poznania.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Park Jana Kasprowicza w Poznaniu</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 11:00:00</event_start>
+        <event_end>2019-10-25 00:00:00</event_end>
+        <event_modified>2019-09-25 15:57:54</event_modified>
+        <category>Sport</category>
+    </event>
+    <event>
+        <event_id>112391</event_id>
+        <event_created>2019-09-05 13:00:59</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sonaty-polskie-ignacy-jan-paderewski-in-memoriam-recital,112391.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sonaty Polskie. Ignacy Jan Paderewski in memoriam - recital]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Recital dwóch znakomitych kameralistów: Bartłomieja Nizioła (skrzypce) Michała Francuza (fortepian). Obaj artyści są związani od lat z Poznaniem. Bartłomiej Nizioł ukończył z wyróżnieniem Akademię Muzyczną w Poznaniu pod kierunkiem prof. Jadwigi Kaliszewskiej. W 1991 roku zdobył I nagrodę na 10. Międzynarodowym Konkursie Skrzypcowym im. H. Wieniawskiego. Od 1995 roku artysta mieszka w Szwajcarii, gdzie w latach 1997-2003 był koncertmistrzem Orkiestry Tonhalle, a od roku 2003 jest koncertmistrzem orkiestry operowej Z&#252;rich Philharmonia. Nizioł był dwukrotnie jurorem Międzynarodowego Konkursu Skrzypcowego im H. Wieniawskiego w Poznaniu (2006, 2011), a także w 2011 roku konkursu Instrumentalmusik Wettbewerb des Migros-Kulturprozent w Zurychu. W 2018 roku przewodniczył jury sekcji skrzypiec na Międzynarodowym Konkursie Muzycznym im. Karola Szymanowskiego w Katowicach. Jest profesorem Hochschule der K&#252;nste Bern. Czterokrotnie został nagrodzony Fryderykiem za nagranie utworów Henryka Wieniawskiego, Grażyny Bacewicz, Eug&#232;ne Ysa&#255;e'a i Karola Lipińskiego. W 2014, wraz z Denisem Severinem i Tatianą Korsunskayą tworzącymi Spyros Piano Trio, nagrał płytę &quot;Luise Adolpha Le Beau&quot;, za którą rok później muzycy otrzymali prestiżową nagrodę Echo Klassik.<br />Michał Francuz na co dzień pracuje jako pianista - kameralista w Akademii Muzycznej im. I. J. Paderewskiego w Poznaniu. W październiku 2016 r. był oficjalnym pianistą 15. Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego w Poznaniu. Michał Francuz ma opinię jednego z najciekawszych polskich pianistów. Jego pianistykę wyróżnia nienaganny warsztat, a interpretacje wykonywanych utworów cechuje duża wyobraźnia dźwiękowa, pełnia wyrazu oraz siła ekspresji.<br /><strong>W programie</strong> sonaty I. J. Paderewskiego, Z. Stojowskiego i W. Żeleńskiego.</p><p><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=9ed7e238a1&amp;e=259dff9827">Bartłomiej Nizioł</a></strong><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=c656f13764&amp;e=259dff9827">&#160;- skrzypce</a></strong>Laureat I nagrody 10. Międzynarodowego Konkursu Skrzypcowego im. H. Wieniawskiego<br /><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=432b6f6008&amp;e=259dff9827">Michał Francuz</a><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=2f92c59bfa&amp;e=259dff9827">&#160;- fortepian</a></strong></p><p><strong>Bilety:&#160;</strong><strong>50 PLN&#160; (bilet normalny) /&#160;30 PLN&#160; (bilet ulgowy).&#160;</strong>Bilety ulgowe przysługują członkom Towarzystwa Muzycznego im. H. Wieniawskiego, emerytom, rencistom, uczniom i studentom.</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Bazar Poznański, Sala Biała, ul. Paderewskiego 7</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 17:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-06 11:06:06</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112391</event_id>
+        <event_created>2019-09-05 13:00:59</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sonaty-polskie-ignacy-jan-paderewski-in-memoriam-recital,112391.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sonaty Polskie. Ignacy Jan Paderewski in memoriam - recital]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Recital dwóch znakomitych kameralistów: Bartłomieja Nizioła (skrzypce) Michała Francuza (fortepian). Obaj artyści są związani od lat z Poznaniem. Bartłomiej Nizioł ukończył z wyróżnieniem Akademię Muzyczną w Poznaniu pod kierunkiem prof. Jadwigi Kaliszewskiej. W 1991 roku zdobył I nagrodę na 10. Międzynarodowym Konkursie Skrzypcowym im. H. Wieniawskiego. Od 1995 roku artysta mieszka w Szwajcarii, gdzie w latach 1997-2003 był koncertmistrzem Orkiestry Tonhalle, a od roku 2003 jest koncertmistrzem orkiestry operowej Z&#252;rich Philharmonia. Nizioł był dwukrotnie jurorem Międzynarodowego Konkursu Skrzypcowego im H. Wieniawskiego w Poznaniu (2006, 2011), a także w 2011 roku konkursu Instrumentalmusik Wettbewerb des Migros-Kulturprozent w Zurychu. W 2018 roku przewodniczył jury sekcji skrzypiec na Międzynarodowym Konkursie Muzycznym im. Karola Szymanowskiego w Katowicach. Jest profesorem Hochschule der K&#252;nste Bern. Czterokrotnie został nagrodzony Fryderykiem za nagranie utworów Henryka Wieniawskiego, Grażyny Bacewicz, Eug&#232;ne Ysa&#255;e'a i Karola Lipińskiego. W 2014, wraz z Denisem Severinem i Tatianą Korsunskayą tworzącymi Spyros Piano Trio, nagrał płytę &quot;Luise Adolpha Le Beau&quot;, za którą rok później muzycy otrzymali prestiżową nagrodę Echo Klassik.<br />Michał Francuz na co dzień pracuje jako pianista - kameralista w Akademii Muzycznej im. I. J. Paderewskiego w Poznaniu. W październiku 2016 r. był oficjalnym pianistą 15. Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego w Poznaniu. Michał Francuz ma opinię jednego z najciekawszych polskich pianistów. Jego pianistykę wyróżnia nienaganny warsztat, a interpretacje wykonywanych utworów cechuje duża wyobraźnia dźwiękowa, pełnia wyrazu oraz siła ekspresji.<br /><strong>W programie</strong> sonaty I. J. Paderewskiego, Z. Stojowskiego i W. Żeleńskiego.</p><p><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=9ed7e238a1&amp;e=259dff9827">Bartłomiej Nizioł</a></strong><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=c656f13764&amp;e=259dff9827">&#160;- skrzypce</a></strong>Laureat I nagrody 10. Międzynarodowego Konkursu Skrzypcowego im. H. Wieniawskiego<br /><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=432b6f6008&amp;e=259dff9827">Michał Francuz</a><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=2f92c59bfa&amp;e=259dff9827">&#160;- fortepian</a></strong></p><p><strong>Bilety:&#160;</strong><strong>50 PLN&#160; (bilet normalny) /&#160;30 PLN&#160; (bilet ulgowy).&#160;</strong>Bilety ulgowe przysługują członkom Towarzystwa Muzycznego im. H. Wieniawskiego, emerytom, rencistom, uczniom i studentom.</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Bazar Poznański, Sala Biała, ul. Paderewskiego 7</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 17:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-06 11:06:06</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112478</event_id>
+        <event_created>2019-09-09 13:47:08</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/konferencja-system-monetarny-2-0,112478.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Konferencja &quot;System monetarny 2.0&quot;]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Collegium da Vinci oraz Stowarzyszenie Blockchain Polska zapraszają na ogólnopolską bezpłatną konferencję &quot;System monetarny 2.0&quot;.</p><p>Technologie nurtu Przemysł 4.0 wywierają coraz większy wpływ na życie wszystkich ludzi. Mimo że użytkownicy końcowi wielu aplikacji nie zdają sobie z tego sprawy, to na co dzień korzystają z takich innowacyjnych technologii, jak blockchain czy sztuczna inteligencja.</p><p>Ostatnie wydarzenia w świecie finansów skłaniają do refleksji, otwierając dyskusję nad nowym kształtem systemu monetarnego, w którego działaniu kluczową rolę odgrywać będą technologie rejestrów rozproszonych. Dlatego też jest to najwłaściwszy czas na zadanie kluczowych pytań ekspertom ze świata finansów na temat tego, w jaki sposób należy przygotować się na nadchodzące zmiany.</p><p>Celem konferencji jest propagowanie innowacyjnych rozwiązań technologicznych opartych na technologii blockchain, ze szczególnym uwzględnieniem rozwiązań implementowanych w sektorze finansowym. W trakcie debaty partnerzy wydarzenia przedstawią przykłady dobrych praktyk, dzięki którym uczestnicy będą mogli poszerzyć swoją wiedzę albo przejść do praktyki.</p><p>Wydarzenie kierowane jest do osób zainteresowanych tematyką, poruszających się w branży fintech, regtech i finansowej, ale także dla tych, którzy chcą poznać innowacyjne technologie.</p><p>Osoby zainteresowane uczestnictwem są zobowiązane do wypełnienia formularza rejestracyjnego: <a href="https://cdv.pl/wydarzenia/konferencja/ogolnopolska-konferencja-system-monetarny-2-0/">http://cdv.pl/wydarzenia/konferencja/ogolnopolska-konferencja-system-monetarny-2-0/</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Collegium Da Vinci, ul. Kutrzeby 10, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 17:30:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-13 11:20:13</event_modified>
+        <category>Inne</category>
+    </event>
+    <event>
+        <event_id>112478</event_id>
+        <event_created>2019-09-09 13:47:08</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/konferencja-system-monetarny-2-0,112478.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Konferencja &quot;System monetarny 2.0&quot;]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Collegium da Vinci oraz Stowarzyszenie Blockchain Polska zapraszają na ogólnopolską bezpłatną konferencję &quot;System monetarny 2.0&quot;.</p><p>Technologie nurtu Przemysł 4.0 wywierają coraz większy wpływ na życie wszystkich ludzi. Mimo że użytkownicy końcowi wielu aplikacji nie zdają sobie z tego sprawy, to na co dzień korzystają z takich innowacyjnych technologii, jak blockchain czy sztuczna inteligencja.</p><p>Ostatnie wydarzenia w świecie finansów skłaniają do refleksji, otwierając dyskusję nad nowym kształtem systemu monetarnego, w którego działaniu kluczową rolę odgrywać będą technologie rejestrów rozproszonych. Dlatego też jest to najwłaściwszy czas na zadanie kluczowych pytań ekspertom ze świata finansów na temat tego, w jaki sposób należy przygotować się na nadchodzące zmiany.</p><p>Celem konferencji jest propagowanie innowacyjnych rozwiązań technologicznych opartych na technologii blockchain, ze szczególnym uwzględnieniem rozwiązań implementowanych w sektorze finansowym. W trakcie debaty partnerzy wydarzenia przedstawią przykłady dobrych praktyk, dzięki którym uczestnicy będą mogli poszerzyć swoją wiedzę albo przejść do praktyki.</p><p>Wydarzenie kierowane jest do osób zainteresowanych tematyką, poruszających się w branży fintech, regtech i finansowej, ale także dla tych, którzy chcą poznać innowacyjne technologie.</p><p>Osoby zainteresowane uczestnictwem są zobowiązane do wypełnienia formularza rejestracyjnego: <a href="https://cdv.pl/wydarzenia/konferencja/ogolnopolska-konferencja-system-monetarny-2-0/">http://cdv.pl/wydarzenia/konferencja/ogolnopolska-konferencja-system-monetarny-2-0/</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Collegium Da Vinci, ul. Kutrzeby 10, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 17:30:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-13 11:20:13</event_modified>
+        <category>Inne</category>
+    </event>
+    <event>
+        <event_id>112964</event_id>
+        <event_created>2019-09-27 11:35:57</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spotkanie-z-marta-orzeszyna-autorka-ksiazki-antoine-de-paris,112964.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spotkanie z Martą Orzeszyną autorką książki Antoine de Paris]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Grupa Stonewall i Dom Wydawniczy Rebis zapraszają na spotkanie z&#160; Martą Orzeszyną autorką książki&#160;&quot;Antoine de Paris&quot;, które poprowadzi Mike Urbaniak.</p><p>Porywająca historia wielkiego Antoine'a, najsłynniejszego stylisty wszech czasów, ojca nowoczesnej sztuki fryzjerskiej.</p><p>Pochodzącego z Sieradza Antoniego Cierplikowskiego, bo tak brzmiało jego prawdziwe nazwisko, znał cały świat - od Paryża, przez Stany Zjednoczone, po Australię i Nową Zelandię. Był geniuszem fryzjerstwa, wyjątkowym artystą i wizjonerem mody. Przez niemal 70 lat lansował trendy, stale prowokował i zaskakiwał swoim talentem. Jego przyjaciółmi byli ludzie sztuki, filmu i koronowane głowy, m.in.: Modigliani, Kisling, Dali, Picasso, Xawery Dunikowski, Jean Cocteau, Maurice Chevalier, Pola Negri, Jan Kiepura, Artur Rubinstein, Wallis, księżna Windsoru, Maria, królowa Rumunii czy Josephine Baker, Bette Davis, Elsa Schiaparelli oraz wiele innych sław. W książce opartej na najnowszych badaniach autorka odsłania kulisy życia prywatnego Antoine'a, opisuje jego oszałamiającą karierę, niezwykłe bogactwo, a wreszcie zaskakujący koniec burzliwego życia.</p><p>Marta Orzeszyna - znawczyni literatury i kultury francuskiej. Przez dziesięć lat mieszkała w Paryżu. Tam poznała historię Antoine'a i zaczęła gromadzić informacje na jego temat. Po powrocie do Polski współpracowała z Małgorzatą Gutowską-Adamczyk przy bestsellerowej powieści Podróż do miasta świateł. Jest również współautorką książki Paryż. <em>Miasto sztuki i miłości w czasach belle &#233;poque</em> oraz autorką powieści obyczajowej Gra o miłość. Mieszka w Namysłowie, z mężem i trzema synami.</p><p>Wstęp wolny.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Klubokawiarnia LOKUM, ul. Półwiejska 28, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-27 11:35:57</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112964</event_id>
+        <event_created>2019-09-27 11:35:57</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/spotkanie-z-marta-orzeszyna-autorka-ksiazki-antoine-de-paris,112964.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Spotkanie z Martą Orzeszyną autorką książki Antoine de Paris]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Grupa Stonewall i Dom Wydawniczy Rebis zapraszają na spotkanie z&#160; Martą Orzeszyną autorką książki&#160;&quot;Antoine de Paris&quot;, które poprowadzi Mike Urbaniak.</p><p>Porywająca historia wielkiego Antoine'a, najsłynniejszego stylisty wszech czasów, ojca nowoczesnej sztuki fryzjerskiej.</p><p>Pochodzącego z Sieradza Antoniego Cierplikowskiego, bo tak brzmiało jego prawdziwe nazwisko, znał cały świat - od Paryża, przez Stany Zjednoczone, po Australię i Nową Zelandię. Był geniuszem fryzjerstwa, wyjątkowym artystą i wizjonerem mody. Przez niemal 70 lat lansował trendy, stale prowokował i zaskakiwał swoim talentem. Jego przyjaciółmi byli ludzie sztuki, filmu i koronowane głowy, m.in.: Modigliani, Kisling, Dali, Picasso, Xawery Dunikowski, Jean Cocteau, Maurice Chevalier, Pola Negri, Jan Kiepura, Artur Rubinstein, Wallis, księżna Windsoru, Maria, królowa Rumunii czy Josephine Baker, Bette Davis, Elsa Schiaparelli oraz wiele innych sław. W książce opartej na najnowszych badaniach autorka odsłania kulisy życia prywatnego Antoine'a, opisuje jego oszałamiającą karierę, niezwykłe bogactwo, a wreszcie zaskakujący koniec burzliwego życia.</p><p>Marta Orzeszyna - znawczyni literatury i kultury francuskiej. Przez dziesięć lat mieszkała w Paryżu. Tam poznała historię Antoine'a i zaczęła gromadzić informacje na jego temat. Po powrocie do Polski współpracowała z Małgorzatą Gutowską-Adamczyk przy bestsellerowej powieści Podróż do miasta świateł. Jest również współautorką książki Paryż. <em>Miasto sztuki i miłości w czasach belle &#233;poque</em> oraz autorką powieści obyczajowej Gra o miłość. Mieszka w Namysłowie, z mężem i trzema synami.</p><p>Wstęp wolny.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Klubokawiarnia LOKUM, ul. Półwiejska 28, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-27 11:35:57</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112745</event_id>
+        <event_created>2019-09-18 13:15:31</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/kolacja-na-cztery-rece-spektakl-goscinny,112745.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Kolacja na cztery ręce - spektakl gościnny]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Aromat świeżych warzyw i owoców, pachnąca zupa grzybowa oraz najbardziej wyszukane gatunki owoców morza - barokowy przepych &quot;Kolacji na cztery ręce&quot; może oszałamiać. Do stołu, a właściwie do fortepianu zasiada dwóch wielkich kompozytorów XVIII wieku - Jerzy Fryderyk Haendel (Emilian Kamiński) i Jan Sebastian Bach (Olaf Lubaszenko). Ich słownemu pojedynkowi przygląda się tajemniczy i dowcipny miłośnik opery, kamerdyner Schmidt (Maciej Miecznikowski).</p><p>Dwaj muzyczni geniusze, dwa skrajnie różne charaktery. Pierwszy - miłośnik londyńskich salonów, bogaty i wpływowy, ulubieniec królów. Drugi - skromny, biedny, ale uznany i szanowany. Urodzeni w tym samym roku, doskonale znali nawzajem swoją twórczość, lecz nigdy się nie spotkali. Czy pod wyszukanymi strojami i kunsztownymi perukami mogą się kryć zwykłe ludzkie słabości?</p><p>Paul Barz, niemiecki dramatopisarz i muzykolog, poddaje obu wirtuozów uważnej analizie. Fikcyjne spotkanie tych dwóch postaci stanowi okazję do refleksji nad zaskakująco współczesnymi problemami. Czy pogoń za sukcesem, władzą i wpływami może dać człowiekowi szczęście? Jaka jest cena sławy? Czy sztukę można wycenić?</p><p>&quot;Kolacja na cztery ręce&quot; w reżyserii Krzysztofa Jasińskiego to przedstawienie szlachetne, budzące salwy szczerego śmiechu. Nacisk został w nim położony na zaprezentowanie aktorskiego kunsztu, żywy kontakt z publicznością i przypomnienie Widzom, czym może być teatr.<br />Autor: Paul Barz<br />Reżyseria: Krzysztof Jasiński<br />Przekład: Jacek Stanisław Buras<br />Scenografia: Andrzej Lewczuk<br />Kostiumy: Andrzej Lewczuk<br />Dźwięk: Łukasz Faliński<br />Światło: Szymon Szczęsny<br />Obsada:<br />Emilian Kamiński<br />Olaf Lubaszenko<br />Maciej Miecznikowski</p><p>Bilety: od 79 zł.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Teatr Wielki im. Stanisława Moniuszki, ul. Aleksandra Fredry 9, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-18 13:15:31</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112745</event_id>
+        <event_created>2019-09-18 13:15:31</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/kolacja-na-cztery-rece-spektakl-goscinny,112745.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Kolacja na cztery ręce - spektakl gościnny]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Aromat świeżych warzyw i owoców, pachnąca zupa grzybowa oraz najbardziej wyszukane gatunki owoców morza - barokowy przepych &quot;Kolacji na cztery ręce&quot; może oszałamiać. Do stołu, a właściwie do fortepianu zasiada dwóch wielkich kompozytorów XVIII wieku - Jerzy Fryderyk Haendel (Emilian Kamiński) i Jan Sebastian Bach (Olaf Lubaszenko). Ich słownemu pojedynkowi przygląda się tajemniczy i dowcipny miłośnik opery, kamerdyner Schmidt (Maciej Miecznikowski).</p><p>Dwaj muzyczni geniusze, dwa skrajnie różne charaktery. Pierwszy - miłośnik londyńskich salonów, bogaty i wpływowy, ulubieniec królów. Drugi - skromny, biedny, ale uznany i szanowany. Urodzeni w tym samym roku, doskonale znali nawzajem swoją twórczość, lecz nigdy się nie spotkali. Czy pod wyszukanymi strojami i kunsztownymi perukami mogą się kryć zwykłe ludzkie słabości?</p><p>Paul Barz, niemiecki dramatopisarz i muzykolog, poddaje obu wirtuozów uważnej analizie. Fikcyjne spotkanie tych dwóch postaci stanowi okazję do refleksji nad zaskakująco współczesnymi problemami. Czy pogoń za sukcesem, władzą i wpływami może dać człowiekowi szczęście? Jaka jest cena sławy? Czy sztukę można wycenić?</p><p>&quot;Kolacja na cztery ręce&quot; w reżyserii Krzysztofa Jasińskiego to przedstawienie szlachetne, budzące salwy szczerego śmiechu. Nacisk został w nim położony na zaprezentowanie aktorskiego kunsztu, żywy kontakt z publicznością i przypomnienie Widzom, czym może być teatr.<br />Autor: Paul Barz<br />Reżyseria: Krzysztof Jasiński<br />Przekład: Jacek Stanisław Buras<br />Scenografia: Andrzej Lewczuk<br />Kostiumy: Andrzej Lewczuk<br />Dźwięk: Łukasz Faliński<br />Światło: Szymon Szczęsny<br />Obsada:<br />Emilian Kamiński<br />Olaf Lubaszenko<br />Maciej Miecznikowski</p><p>Bilety: od 79 zł.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Teatr Wielki im. Stanisława Moniuszki, ul. Aleksandra Fredry 9, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 19:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-18 13:15:31</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112392</event_id>
+        <event_created>2019-09-05 13:03:17</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sonaty-polskie-ignacy-jan-paderewski-in-memoriam-recital,112392.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sonaty Polskie. Ignacy Jan Paderewski in memoriam - recital]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Recital dwóch znakomitych kameralistów: Bartłomieja Nizioła (skrzypce) Michała Francuza (fortepian). Obaj artyści są związani od lat z Poznaniem. Bartłomiej Nizioł ukończył z wyróżnieniem Akademię Muzyczną w Poznaniu pod kierunkiem prof. Jadwigi Kaliszewskiej. W 1991 roku zdobył I nagrodę na 10. Międzynarodowym Konkursie Skrzypcowym im. H. Wieniawskiego. Od 1995 roku artysta mieszka w Szwajcarii, gdzie w latach 1997-2003 był koncertmistrzem Orkiestry Tonhalle, a od roku 2003 jest koncertmistrzem orkiestry operowej Z&#252;rich Philharmonia. Nizioł był dwukrotnie jurorem Międzynarodowego Konkursu Skrzypcowego im H. Wieniawskiego w Poznaniu (2006, 2011), a także w 2011 roku konkursu Instrumentalmusik Wettbewerb des Migros-Kulturprozent w Zurychu. W 2018 roku przewodniczył jury sekcji skrzypiec na Międzynarodowym Konkursie Muzycznym im. Karola Szymanowskiego w Katowicach. Jest profesorem Hochschule der K&#252;nste Bern. Czterokrotnie został nagrodzony Fryderykiem za nagranie utworów Henryka Wieniawskiego, Grażyny Bacewicz, Eug&#232;ne Ysa&#255;e'a i Karola Lipińskiego. W 2014, wraz z Denisem Severinem i Tatianą Korsunskayą tworzącymi Spyros Piano Trio, nagrał płytę &quot;Luise Adolpha Le Beau&quot;, za którą rok później muzycy otrzymali prestiżową nagrodę Echo Klassik.<br />Michał Francuz na co dzień pracuje jako pianista - kameralista w Akademii Muzycznej im. I. J. Paderewskiego w Poznaniu. W październiku 2016 r. był oficjalnym pianistą 15. Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego w Poznaniu. Michał Francuz ma opinię jednego z najciekawszych polskich pianistów. Jego pianistykę wyróżnia nienaganny warsztat, a interpretacje wykonywanych utworów cechuje duża wyobraźnia dźwiękowa, pełnia wyrazu oraz siła ekspresji.<br /><strong>W programie</strong>&#160;sonaty I. J. Paderewskiego, Z. Stojowskiego i W. Żeleńskiego.</p><p><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=9ed7e238a1&amp;e=259dff9827">Bartłomiej Nizioł</a></strong><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=c656f13764&amp;e=259dff9827">&#160;- skrzypce</a></strong>Laureat I nagrody 10. Międzynarodowego Konkursu Skrzypcowego im. H. Wieniawskiego<br /><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=432b6f6008&amp;e=259dff9827">Michał Francuz</a><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=2f92c59bfa&amp;e=259dff9827">&#160;- fortepian</a></strong></p><p><strong>Bilety:&#160;</strong><strong>50 PLN&#160; (bilet normalny) /&#160;30 PLN&#160; (bilet ulgowy).&#160;</strong>Bilety ulgowe przysługują członkom Towarzystwa Muzycznego im. H. Wieniawskiego, emerytom, rencistom, uczniom i studentom.</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Bazar Poznański, Sala Biała, ul. Paderewskiego 7</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 20:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-06 11:06:01</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112392</event_id>
+        <event_created>2019-09-05 13:03:17</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sonaty-polskie-ignacy-jan-paderewski-in-memoriam-recital,112392.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sonaty Polskie. Ignacy Jan Paderewski in memoriam - recital]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Recital dwóch znakomitych kameralistów: Bartłomieja Nizioła (skrzypce) Michała Francuza (fortepian). Obaj artyści są związani od lat z Poznaniem. Bartłomiej Nizioł ukończył z wyróżnieniem Akademię Muzyczną w Poznaniu pod kierunkiem prof. Jadwigi Kaliszewskiej. W 1991 roku zdobył I nagrodę na 10. Międzynarodowym Konkursie Skrzypcowym im. H. Wieniawskiego. Od 1995 roku artysta mieszka w Szwajcarii, gdzie w latach 1997-2003 był koncertmistrzem Orkiestry Tonhalle, a od roku 2003 jest koncertmistrzem orkiestry operowej Z&#252;rich Philharmonia. Nizioł był dwukrotnie jurorem Międzynarodowego Konkursu Skrzypcowego im H. Wieniawskiego w Poznaniu (2006, 2011), a także w 2011 roku konkursu Instrumentalmusik Wettbewerb des Migros-Kulturprozent w Zurychu. W 2018 roku przewodniczył jury sekcji skrzypiec na Międzynarodowym Konkursie Muzycznym im. Karola Szymanowskiego w Katowicach. Jest profesorem Hochschule der K&#252;nste Bern. Czterokrotnie został nagrodzony Fryderykiem za nagranie utworów Henryka Wieniawskiego, Grażyny Bacewicz, Eug&#232;ne Ysa&#255;e'a i Karola Lipińskiego. W 2014, wraz z Denisem Severinem i Tatianą Korsunskayą tworzącymi Spyros Piano Trio, nagrał płytę &quot;Luise Adolpha Le Beau&quot;, za którą rok później muzycy otrzymali prestiżową nagrodę Echo Klassik.<br />Michał Francuz na co dzień pracuje jako pianista - kameralista w Akademii Muzycznej im. I. J. Paderewskiego w Poznaniu. W październiku 2016 r. był oficjalnym pianistą 15. Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego w Poznaniu. Michał Francuz ma opinię jednego z najciekawszych polskich pianistów. Jego pianistykę wyróżnia nienaganny warsztat, a interpretacje wykonywanych utworów cechuje duża wyobraźnia dźwiękowa, pełnia wyrazu oraz siła ekspresji.<br /><strong>W programie</strong>&#160;sonaty I. J. Paderewskiego, Z. Stojowskiego i W. Żeleńskiego.</p><p><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=9ed7e238a1&amp;e=259dff9827">Bartłomiej Nizioł</a></strong><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=c656f13764&amp;e=259dff9827">&#160;- skrzypce</a></strong>Laureat I nagrody 10. Międzynarodowego Konkursu Skrzypcowego im. H. Wieniawskiego<br /><strong><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=432b6f6008&amp;e=259dff9827">Michał Francuz</a><a href="https://wieniawski.us7.list-manage.com/track/click?u=e07e79e3ae5728abc3f528d73&amp;id=2f92c59bfa&amp;e=259dff9827">&#160;- fortepian</a></strong></p><p><strong>Bilety:&#160;</strong><strong>50 PLN&#160; (bilet normalny) /&#160;30 PLN&#160; (bilet ulgowy).&#160;</strong>Bilety ulgowe przysługują członkom Towarzystwa Muzycznego im. H. Wieniawskiego, emerytom, rencistom, uczniom i studentom.</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Bazar Poznański, Sala Biała, ul. Paderewskiego 7</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 20:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-06 11:06:01</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112463</event_id>
+        <event_created>2019-09-09 10:06:57</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/mariusz-kwasniewski-na-zywo-brodacze-live-act-i-kasia-tontor,112463.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Mariusz Kwaśniewski na żywo: Brodacze Live Act i Kasia Tontor]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Podczas siedemnastej audycji, Mariusz Kwaśniewski będzie gościć zespół Brodacze Live Act oraz Kasię Tontor! Rozmowy z artystami będą przeplatać się z ich występami.</p><p><strong>Brodacze</strong> dwukrotnie zostali zaproszeni do udziału w trasach koncertowych Łąki Łan bardzo szybko zyskując rzeszę sympatyków. W pierwszym roku działalności zagrali w największych salach w kraju: Wytwórnia w Łodzi, Stary Maneż w Gdańsku, Atlantic w Gdyni, A2 we Wrocławiu czy Teatr Łaźnia Nowa w Krakowie. Ponadto wystąpili na festiwalach takich jak jak: Spring Break, Kortowiada, Bachanalia, Kazimiernikejszyn, czy Cekcyn Electronic Music. Ich koncerty to mnóstwo energii i spora dawka mniej lub bardziej kontrolowanej ekspresji. Debiutancka płyta Brodaczy - &quot;#beardoelectro&quot; to mieszanka autorskich bitów z żywym wykorzystaniem instrumentów takich jak gitary, syntezatory, flażolety i wokale. Dodatkowej przestrzeni dodaje również żywy dubmaster, czyli przepuszczanie poszczególnych instrumentów przez rozmaite efekty.</p><p><strong>Kasia Tontor</strong> to wokalistka, kompozytorka, autorka tekstów, miłośniczka &quot;czarnych&quot; klimatów muzycznych. Na swoim koncie posiada EP-kę wydaną w 2015 roku. Nowe materiały stworzone we współpracy z łódzkim producentem Salvare, to połączenie mocnych brzmień r&#38;b/soulu z elementami hip hopu.</p><p>Bilety - 10 zł.</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Blue Note, ul. Kościuszki 79</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 20:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-09 10:06:57</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112463</event_id>
+        <event_created>2019-09-09 10:06:57</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/mariusz-kwasniewski-na-zywo-brodacze-live-act-i-kasia-tontor,112463.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Mariusz Kwaśniewski na żywo: Brodacze Live Act i Kasia Tontor]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Podczas siedemnastej audycji, Mariusz Kwaśniewski będzie gościć zespół Brodacze Live Act oraz Kasię Tontor! Rozmowy z artystami będą przeplatać się z ich występami.</p><p><strong>Brodacze</strong> dwukrotnie zostali zaproszeni do udziału w trasach koncertowych Łąki Łan bardzo szybko zyskując rzeszę sympatyków. W pierwszym roku działalności zagrali w największych salach w kraju: Wytwórnia w Łodzi, Stary Maneż w Gdańsku, Atlantic w Gdyni, A2 we Wrocławiu czy Teatr Łaźnia Nowa w Krakowie. Ponadto wystąpili na festiwalach takich jak jak: Spring Break, Kortowiada, Bachanalia, Kazimiernikejszyn, czy Cekcyn Electronic Music. Ich koncerty to mnóstwo energii i spora dawka mniej lub bardziej kontrolowanej ekspresji. Debiutancka płyta Brodaczy - &quot;#beardoelectro&quot; to mieszanka autorskich bitów z żywym wykorzystaniem instrumentów takich jak gitary, syntezatory, flażolety i wokale. Dodatkowej przestrzeni dodaje również żywy dubmaster, czyli przepuszczanie poszczególnych instrumentów przez rozmaite efekty.</p><p><strong>Kasia Tontor</strong> to wokalistka, kompozytorka, autorka tekstów, miłośniczka &quot;czarnych&quot; klimatów muzycznych. Na swoim koncie posiada EP-kę wydaną w 2015 roku. Nowe materiały stworzone we współpracy z łódzkim producentem Salvare, to połączenie mocnych brzmień r&#38;b/soulu z elementami hip hopu.</p><p>Bilety - 10 zł.</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Blue Note, ul. Kościuszki 79</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-10-01 20:00:00</event_start>
+        <event_end/>
+        <event_modified>2019-09-09 10:06:57</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112938</event_id>
+        <event_created>2019-09-26 09:04:36</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/moja-wielkopolska-oczami-osob-z-niepelnosprawnoscia-intelektualna-wystawa-pokonkursowa,112938.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Moja Wielkopolska oczami osób z niepełnosprawnością intelektualną - wystawa pokonkursowa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>30 września o godz. 12. w &quot;Galerii na Letnim&quot; odbędzie się podsumowanie konkursu &quot;Moja Wielkopolska oczami osób z niepełnosprawnością intelektualną&quot;, wręczenie nagród i wernisaż wystawy, którą przez cały październik będzie można oglądać w godzinach pracy Dworca Letniego.</p><p>Więcej o osobach biorących udział w konkursie <a href="https://www.wbp.poznan.pl/fotografia/objazdowa-galeria/lista-wystaw/moja-wielkopolska-2019/#Moja%20Wielkopolska%20oczami%20os%C3%B3b%20z%20niepe%C5%82nosprawno%C5%9Bci%C4%85%20intelektualn%C4%85">na stronie WBP</a>.</p><p>_<br />akt.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria na Letnim, Dworzec Letni, ul. Dworcowa 5, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-30 12:00:00</event_start>
+        <event_end>2019-10-31 00:00:00</event_end>
+        <event_modified>2019-09-26 09:20:02</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112938</event_id>
+        <event_created>2019-09-26 09:04:36</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/moja-wielkopolska-oczami-osob-z-niepelnosprawnoscia-intelektualna-wystawa-pokonkursowa,112938.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Moja Wielkopolska oczami osób z niepełnosprawnością intelektualną - wystawa pokonkursowa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>30 września o godz. 12. w &quot;Galerii na Letnim&quot; odbędzie się podsumowanie konkursu &quot;Moja Wielkopolska oczami osób z niepełnosprawnością intelektualną&quot;, wręczenie nagród i wernisaż wystawy, którą przez cały październik będzie można oglądać w godzinach pracy Dworca Letniego.</p><p>Więcej o osobach biorących udział w konkursie <a href="https://www.wbp.poznan.pl/fotografia/objazdowa-galeria/lista-wystaw/moja-wielkopolska-2019/#Moja%20Wielkopolska%20oczami%20os%C3%B3b%20z%20niepe%C5%82nosprawno%C5%9Bci%C4%85%20intelektualn%C4%85">na stronie WBP</a>.</p><p>_<br />akt.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria na Letnim, Dworzec Letni, ul. Dworcowa 5, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-30 12:00:00</event_start>
+        <event_end>2019-10-31 00:00:00</event_end>
+        <event_modified>2019-09-26 09:20:02</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112837</event_id>
+        <event_created>2019-09-22 15:06:30</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/przenikanie-19-wernisaz-wystawy-iwony-goraj,112837.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Przenikanie 19 - wernisaż wystawy Iwony Góraj]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Organizatorzy serdecznie zapraszają na wernisaż wystawy ciekawej i wszechstronnej artystki, Iwony Góraj, która oprócz prac plastycznych: malarstwo, tkanina, formy przestrzenne, zaprezentuje także piosenki z wierszami własnego autorstwa, łącząc tym samym różne dziedziny sztuki.</p><p>Wernisaż odbędzie się w dniu 28 września, wystawa trwa do 5 listopada 2019.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>PGK Centrum, &quot;Galeria pod Schodami&quot;, ul.Marcelińska 90, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-28 17:00:00</event_start>
+        <event_end>2019-11-06 17:00:00</event_end>
+        <event_modified>2019-09-23 09:26:09</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112837</event_id>
+        <event_created>2019-09-22 15:06:30</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/przenikanie-19-wernisaz-wystawy-iwony-goraj,112837.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Przenikanie 19 - wernisaż wystawy Iwony Góraj]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Organizatorzy serdecznie zapraszają na wernisaż wystawy ciekawej i wszechstronnej artystki, Iwony Góraj, która oprócz prac plastycznych: malarstwo, tkanina, formy przestrzenne, zaprezentuje także piosenki z wierszami własnego autorstwa, łącząc tym samym różne dziedziny sztuki.</p><p>Wernisaż odbędzie się w dniu 28 września, wystawa trwa do 5 listopada 2019.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>PGK Centrum, &quot;Galeria pod Schodami&quot;, ul.Marcelińska 90, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-28 17:00:00</event_start>
+        <event_end>2019-11-06 17:00:00</event_end>
+        <event_modified>2019-09-23 09:26:09</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112900</event_id>
+        <event_created>2019-09-24 15:12:46</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sztuka-opowiadania-sztuki-warsztaty,112900.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sztuka opowiadania sztuki - warsztaty]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>część 1&#160;| 30.09. g. 9.30-16.30, Sala Wystaw |&#160;1.10. g. 9-16, Sala Prób<br />część 2&#160;| 28.10. g. 9.30-16.30, Sala Wystaw</p><p>Sztuka opowiadania sztuki&quot; - warsztaty z tworzenia audiodeskrypcji i pomocy dotykowych do prac abstrakcyjnych<br />Specjalistyczne warsztaty będą okazją do przygotowania pracowników i współpracowników instytucji kultury do udostępniania dzieł sztuki abstrakcyjnej osobom z niepełnosprawnością wzroku.<br />W czasie zajęć przekażemy uczestnikom najważniejsze informacje dotyczące specyfiki środowiska osób niewidomych i niedowidzących, ich potrzeb i ograniczeń oraz możliwości poznawczych. Poruszona zostanie kwestia najważniejszych komplikacji, które pojawić się mogą w miejscu spotkania tekstu kultury i osób z niepełnosprawnością wzroku oraz sposoby likwidowania barier z wykorzystaniem audiodeskrypcji i pomocy dotykowych.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>CK Zamek, sala Wystaw, ul. Św. Marcin 80/82, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-28 00:00:00</event_start>
+        <event_end>2019-10-01 00:00:00</event_end>
+        <event_modified>2019-09-24 15:12:46</event_modified>
+        <category>Inne</category>
+    </event>
+    <event>
+        <event_id>112900</event_id>
+        <event_created>2019-09-24 15:12:46</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sztuka-opowiadania-sztuki-warsztaty,112900.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sztuka opowiadania sztuki - warsztaty]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>część 1&#160;| 30.09. g. 9.30-16.30, Sala Wystaw |&#160;1.10. g. 9-16, Sala Prób<br />część 2&#160;| 28.10. g. 9.30-16.30, Sala Wystaw</p><p>Sztuka opowiadania sztuki&quot; - warsztaty z tworzenia audiodeskrypcji i pomocy dotykowych do prac abstrakcyjnych<br />Specjalistyczne warsztaty będą okazją do przygotowania pracowników i współpracowników instytucji kultury do udostępniania dzieł sztuki abstrakcyjnej osobom z niepełnosprawnością wzroku.<br />W czasie zajęć przekażemy uczestnikom najważniejsze informacje dotyczące specyfiki środowiska osób niewidomych i niedowidzących, ich potrzeb i ograniczeń oraz możliwości poznawczych. Poruszona zostanie kwestia najważniejszych komplikacji, które pojawić się mogą w miejscu spotkania tekstu kultury i osób z niepełnosprawnością wzroku oraz sposoby likwidowania barier z wykorzystaniem audiodeskrypcji i pomocy dotykowych.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>CK Zamek, sala Wystaw, ul. Św. Marcin 80/82, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-28 00:00:00</event_start>
+        <event_end>2019-10-01 00:00:00</event_end>
+        <event_modified>2019-09-24 15:12:46</event_modified>
+        <category>Inne</category>
+    </event>
+    <event>
+        <event_id>112842</event_id>
+        <event_created>2019-09-23 10:15:16</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/senioralni-poznan,112842.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Senioralni. Poznań]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p><strong>Koniec września to jednocześnie początek dziewiątej edycji imprezy &quot;Senioralni. Poznań&quot;. Centrum Inicjatyw Senioralnych po raz kolejny wraz z partnerami - instytucjami, uniwersytetami, organizacjami pozarządowymi - przygotowało mnóstwo ciekawych wydarzeń dedykowanych najstarszym mieszkańcom Poznania.</strong></p><p>&quot;Senioralni&quot; to cykl otwartych wykładów, warsztatów, koncertów i drzwi otwartych w przeróżnych miejscach posiadających ofertę skierowaną do seniorów.Inauguracja tegorocznej imprezy odbędzie się w sobotę&#160;<strong>28 września o godz. 11.00&#160;</strong>na Wolnym Dziedzińcu Urzędu Miasta Poznania. Tego dnia Prezydent Poznania tradycyjnie przekaże seniorom i seniorkom klucze do bram miasta. Wręczone zostaną kolejne certyfikaty w ramach akcji &quot;Miejsce przyjazne seniorom&quot;. Po części oficjalnej odbędzie się koncert&#160;<strong>Krystyny Giżowskiej</strong>&#160;&quot;W drodze do Fontainebleau, czyli witamy polską złotą jesień&quot;. Na scenie wystąpi też Bartosz Kuczyk. W programie również pokaz tańca w wykonaniu Mariny Ostapei. Centrum Medyczne Synexus, partner główny jesiennego cyklu wydarzeń, zaprosi seniorów do udziału w bezpłatnych badaniach kontrolnych, z których będzie można skorzystać przez cały czas trwania &quot;Senioralnych&quot;.&#160;&#160;</p><p>&quot;Senioralni&quot; potrwają w tym roku&#160;<strong>do 11 listopada</strong>.&#160;</p><p>Po raz kolejny integralną częścią &quot;Senioralnych&quot; będą&#160;<strong>targi VIVA SENIORZY!</strong>&#160;Jubileuszowa, dziesiąta edycja wydarzenia odbędzie się w&#160;<strong>25 i 26 października</strong>&#160;na terenie MTP, w pawilonie nr 3. Targi podzielone zostaną na cztery bloki tematyczne: aktywność, zdrowie, wiedza i otoczenie. Targi to również bardzo ciekawa propozycja artystyczna. Pierwszego dnia na targowej scenie wystąpi&#160;<strong>Grażyna Brodzińska</strong>, a dzień później pojawi się na niej&#160;<strong>Halina Frąckowiak</strong>. Podczas targów seniorzy będą mogli wziąć udział m.in. w warsztatach z obsługi komputera czy smartfona. Program przewiduje również zajęcia związane z aktywnością fizyczną i tańcem, warsztaty ogrodnicze, zielarskie i kulinarne oraz strefę kosmetyczną.</p><p><strong>Więcej na temat targów:</strong><a href="http://centrumis.pl/edycja-2019.html">http://centrumis.pl/edycja-2019.html</a></p><p>Szczegółowy program wydarzeń z informacją o zapisach zostanie opublikowany w dniu inauguracji na stronie&#160;<a href="http://www.centrumis.pl/">www.centrumis.pl</a>. Podczas inauguracji dystrybuowany będzie również w formie papierowej. Później dostępny będzie m.in. w Centrum Inicjatyw Senioralnych (ul. Mielżyńskiego 24).</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Różne lokalizacje, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-28 00:00:00</event_start>
+        <event_end>2019-11-11 00:00:00</event_end>
+        <event_modified>2019-09-23 11:28:39</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112842</event_id>
+        <event_created>2019-09-23 10:15:16</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/senioralni-poznan,112842.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Senioralni. Poznań]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p><strong>Koniec września to jednocześnie początek dziewiątej edycji imprezy &quot;Senioralni. Poznań&quot;. Centrum Inicjatyw Senioralnych po raz kolejny wraz z partnerami - instytucjami, uniwersytetami, organizacjami pozarządowymi - przygotowało mnóstwo ciekawych wydarzeń dedykowanych najstarszym mieszkańcom Poznania.</strong></p><p>&quot;Senioralni&quot; to cykl otwartych wykładów, warsztatów, koncertów i drzwi otwartych w przeróżnych miejscach posiadających ofertę skierowaną do seniorów.Inauguracja tegorocznej imprezy odbędzie się w sobotę&#160;<strong>28 września o godz. 11.00&#160;</strong>na Wolnym Dziedzińcu Urzędu Miasta Poznania. Tego dnia Prezydent Poznania tradycyjnie przekaże seniorom i seniorkom klucze do bram miasta. Wręczone zostaną kolejne certyfikaty w ramach akcji &quot;Miejsce przyjazne seniorom&quot;. Po części oficjalnej odbędzie się koncert&#160;<strong>Krystyny Giżowskiej</strong>&#160;&quot;W drodze do Fontainebleau, czyli witamy polską złotą jesień&quot;. Na scenie wystąpi też Bartosz Kuczyk. W programie również pokaz tańca w wykonaniu Mariny Ostapei. Centrum Medyczne Synexus, partner główny jesiennego cyklu wydarzeń, zaprosi seniorów do udziału w bezpłatnych badaniach kontrolnych, z których będzie można skorzystać przez cały czas trwania &quot;Senioralnych&quot;.&#160;&#160;</p><p>&quot;Senioralni&quot; potrwają w tym roku&#160;<strong>do 11 listopada</strong>.&#160;</p><p>Po raz kolejny integralną częścią &quot;Senioralnych&quot; będą&#160;<strong>targi VIVA SENIORZY!</strong>&#160;Jubileuszowa, dziesiąta edycja wydarzenia odbędzie się w&#160;<strong>25 i 26 października</strong>&#160;na terenie MTP, w pawilonie nr 3. Targi podzielone zostaną na cztery bloki tematyczne: aktywność, zdrowie, wiedza i otoczenie. Targi to również bardzo ciekawa propozycja artystyczna. Pierwszego dnia na targowej scenie wystąpi&#160;<strong>Grażyna Brodzińska</strong>, a dzień później pojawi się na niej&#160;<strong>Halina Frąckowiak</strong>. Podczas targów seniorzy będą mogli wziąć udział m.in. w warsztatach z obsługi komputera czy smartfona. Program przewiduje również zajęcia związane z aktywnością fizyczną i tańcem, warsztaty ogrodnicze, zielarskie i kulinarne oraz strefę kosmetyczną.</p><p><strong>Więcej na temat targów:</strong><a href="http://centrumis.pl/edycja-2019.html">http://centrumis.pl/edycja-2019.html</a></p><p>Szczegółowy program wydarzeń z informacją o zapisach zostanie opublikowany w dniu inauguracji na stronie&#160;<a href="http://www.centrumis.pl/">www.centrumis.pl</a>. Podczas inauguracji dystrybuowany będzie również w formie papierowej. Później dostępny będzie m.in. w Centrum Inicjatyw Senioralnych (ul. Mielżyńskiego 24).</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Różne lokalizacje, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-28 00:00:00</event_start>
+        <event_end>2019-11-11 00:00:00</event_end>
+        <event_modified>2019-09-23 11:28:39</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112925</event_id>
+        <event_created>2019-09-25 15:04:58</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/szkolenie-nordic-walking-dla-poczatkujacych,112925.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Szkolenie Nordic Walking dla początkujących]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Organizatorzy zapraszają na szkolenie-spacer wszystkich, którzy chcą nauczyć się prawidłowego chodzenia z kijami nordic walking.</p><p>Szkolenie jest otwarte i bezpłatne, skierowane do osób, które zamierzają nauczyć się, a później uprawiać dyscyplinę nordic walking. Ale nie tylko - w spacerze mogą również uczestniczyć doświadczeni spacerowicze, którzy w towarzystwie chcą uzupełnić swoją technikę chodu.<br />Zajęcia skierowane są głównie dla mieszkańców osiedla Św. Łazarz, ale zapraszamy również osoby z całego Poznania.</p><p>Terminy spotkań:</p><ul><li><span>26.09 g. 17:30 - park Kasprowicza (przy wejściu na letnią pływalnię)</span></li><li><span>03.10 g. 17:30 - park Wilsona (przy muszli koncertowej)</span></li><li><span>10.10 g. 17:30 - park Kasprowicza (przy wejściu na letnią pływalnię)</span></li><li><span>17.10 g. 17:30 - park Wilsona (przy muszli koncertowej).</span></li></ul><p>Na zajęcia należy zabrać strój spacerowo-sportowy i wygodne buty oraz kije (jeśli posiadasz).</p><p>Przewidziana liczebność grupy do 12 osób. Czas zajęć ok. 1 h.</p><p>Na miejscu będzie dostępna woda i apteczka oraz 5 kompletów kijów do wypożyczenia. Zajęcia poprowadzi certyfikowany instruktor nordic walking.</p><p>W razie niekorzystnych warunków atmosferycznych zajęcia zostaną odwołane/przesunięte.</p><p>Dodatkowe informacje oraz zapisy: <a href="mailto:lazarskiszczun@gmail.com">lazarskiszczun@gmail.com</a> lub tel. 601 170 818.</p><p>Zadanie finansowane ze środków Rady Osiedla Św. Łazarz.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Park Jana Kasprowicza w Poznaniu</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-26 17:30:00</event_start>
+        <event_end>2019-10-17 00:00:00</event_end>
+        <event_modified>2019-09-25 15:04:58</event_modified>
+        <category>Sport</category>
+    </event>
+    <event>
+        <event_id>112925</event_id>
+        <event_created>2019-09-25 15:04:58</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/szkolenie-nordic-walking-dla-poczatkujacych,112925.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Szkolenie Nordic Walking dla początkujących]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Organizatorzy zapraszają na szkolenie-spacer wszystkich, którzy chcą nauczyć się prawidłowego chodzenia z kijami nordic walking.</p><p>Szkolenie jest otwarte i bezpłatne, skierowane do osób, które zamierzają nauczyć się, a później uprawiać dyscyplinę nordic walking. Ale nie tylko - w spacerze mogą również uczestniczyć doświadczeni spacerowicze, którzy w towarzystwie chcą uzupełnić swoją technikę chodu.<br />Zajęcia skierowane są głównie dla mieszkańców osiedla Św. Łazarz, ale zapraszamy również osoby z całego Poznania.</p><p>Terminy spotkań:</p><ul><li><span>26.09 g. 17:30 - park Kasprowicza (przy wejściu na letnią pływalnię)</span></li><li><span>03.10 g. 17:30 - park Wilsona (przy muszli koncertowej)</span></li><li><span>10.10 g. 17:30 - park Kasprowicza (przy wejściu na letnią pływalnię)</span></li><li><span>17.10 g. 17:30 - park Wilsona (przy muszli koncertowej).</span></li></ul><p>Na zajęcia należy zabrać strój spacerowo-sportowy i wygodne buty oraz kije (jeśli posiadasz).</p><p>Przewidziana liczebność grupy do 12 osób. Czas zajęć ok. 1 h.</p><p>Na miejscu będzie dostępna woda i apteczka oraz 5 kompletów kijów do wypożyczenia. Zajęcia poprowadzi certyfikowany instruktor nordic walking.</p><p>W razie niekorzystnych warunków atmosferycznych zajęcia zostaną odwołane/przesunięte.</p><p>Dodatkowe informacje oraz zapisy: <a href="mailto:lazarskiszczun@gmail.com">lazarskiszczun@gmail.com</a> lub tel. 601 170 818.</p><p>Zadanie finansowane ze środków Rady Osiedla Św. Łazarz.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Park Jana Kasprowicza w Poznaniu</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-26 17:30:00</event_start>
+        <event_end>2019-10-17 00:00:00</event_end>
+        <event_modified>2019-09-25 15:04:58</event_modified>
+        <category>Sport</category>
+    </event>
+    <event>
+        <event_id>112589</event_id>
+        <event_created>2019-09-12 13:26:34</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wystawa-malarstwa-ireneusz-wolinski,112589.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wystawa malarstwa - Ireneusz Woliński]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Ireneusz Woliński urodził się 1962 roku w Końskich.&#160; Studiował na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie oraz&#160; w Państwowej Szkole Sztuk Plastycznych w Poznaniu (obecnie Uniwersytet Artystyczny). Dyplom z malarstwa obronił w pracowni prof. Norbera Skupniewicza. W latach 1988 - 1989 otrzymywał stypendium Ministra Kultury i Sztuki. Obok malarstwa i rysunku zajmuje się również ilustracją i projektowaniem graficznym. Mieszka i pracuje&#160; Poznaniu.</p><ul><li><span><em>termin wernisażu:</em>&#160;18.09.2019 r.</span></li><li><span><em>godzina&#160;wernisażu</em>: 19.00</span></li></ul><p>Wstęp wolny.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria Jerzego Piotrowicza Pod Koroną, ul. Kramarska 3/5, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-18 00:00:00</event_start>
+        <event_end>2019-10-05 00:00:00</event_end>
+        <event_modified>2019-09-12 13:26:34</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112589</event_id>
+        <event_created>2019-09-12 13:26:34</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wystawa-malarstwa-ireneusz-wolinski,112589.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wystawa malarstwa - Ireneusz Woliński]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Ireneusz Woliński urodził się 1962 roku w Końskich.&#160; Studiował na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie oraz&#160; w Państwowej Szkole Sztuk Plastycznych w Poznaniu (obecnie Uniwersytet Artystyczny). Dyplom z malarstwa obronił w pracowni prof. Norbera Skupniewicza. W latach 1988 - 1989 otrzymywał stypendium Ministra Kultury i Sztuki. Obok malarstwa i rysunku zajmuje się również ilustracją i projektowaniem graficznym. Mieszka i pracuje&#160; Poznaniu.</p><ul><li><span><em>termin wernisażu:</em>&#160;18.09.2019 r.</span></li><li><span><em>godzina&#160;wernisażu</em>: 19.00</span></li></ul><p>Wstęp wolny.</p><p>_<br />opr.LT</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria Jerzego Piotrowicza Pod Koroną, ul. Kramarska 3/5, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-18 00:00:00</event_start>
+        <event_end>2019-10-05 00:00:00</event_end>
+        <event_modified>2019-09-12 13:26:34</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112737</event_id>
+        <event_created>2019-09-18 08:19:58</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/zajecia-edukacyjne-dla-dzieci-i-mlodziezy-w-przedszkolach-i-szkolach,112737.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Zajęcia edukacyjne dla dzieci i młodzieży w przedszkolach i szkołach]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Pracownia Edukacyjna Wiatrak zaprasza do zapoznania się z ofertą interdyscyplinarnych warsztatów i interaktywnych pokazów edukacyjnych dla dzieci i młodzieży.</p><p>Proponowane zajęcia mogą odbywać się w przedszkolu lub szkole. Mogą to być zajęcia jednorazowe (np. okolicznościowe) lub cykliczne z częstotliwością, np. raz w tygodniu lub w miesiącu. Dobór treści, materiałów i metod dydaktycznych oraz poziom rozumienia dostosowany jest zawsze do wieku uczestników.</p><p>Propozycje zajęć dodatkowych:</p><ul><li><span>warsztaty chemiczno-fizyczne z eksperymentami,</span></li><li><span>warsztaty podróżnicze, &#160;</span></li><li><span>warsztaty przyrodnicze,</span></li><li><span>warsztaty filozoficzne,</span></li><li><span>warsztaty tworzenia mydeł,</span></li><li><span>warsztaty musujących kul do kąpieli,</span></li><li><span>warsztaty tworzenia ozdobnych świec,</span></li><li><span>warsztaty upcyklingowe,</span></li><li><span>warsztaty czerpania papieru,</span></li><li><span>warsztaty tworzenia masek karnawałowych,</span></li><li><span>warsztaty florystyczne (stroiki, wianki, sukulenty w szkle) - i inne, np. piankoryt, masa solna, malowanie na wodzie,</span></li><li><span>pokazy eksperymentów chemicznych.</span></li></ul><p>Szczegółowe opisy wszystkich warsztatów i pokazów edukacyjnych oraz informacje organizacyjne na stronie internetowej <a href="http://pracowniawiatrak.pl/aktualnosci">Pracowni</a>.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Pracownia Edukacyjna Wiatrak, os. Pod Lipami 8, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-18 00:00:00</event_start>
+        <event_end>2019-10-31 00:00:00</event_end>
+        <event_modified>2019-09-18 08:53:35</event_modified>
+        <category>Oświata</category>
+    </event>
+    <event>
+        <event_id>112737</event_id>
+        <event_created>2019-09-18 08:19:58</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/zajecia-edukacyjne-dla-dzieci-i-mlodziezy-w-przedszkolach-i-szkolach,112737.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Zajęcia edukacyjne dla dzieci i młodzieży w przedszkolach i szkołach]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Pracownia Edukacyjna Wiatrak zaprasza do zapoznania się z ofertą interdyscyplinarnych warsztatów i interaktywnych pokazów edukacyjnych dla dzieci i młodzieży.</p><p>Proponowane zajęcia mogą odbywać się w przedszkolu lub szkole. Mogą to być zajęcia jednorazowe (np. okolicznościowe) lub cykliczne z częstotliwością, np. raz w tygodniu lub w miesiącu. Dobór treści, materiałów i metod dydaktycznych oraz poziom rozumienia dostosowany jest zawsze do wieku uczestników.</p><p>Propozycje zajęć dodatkowych:</p><ul><li><span>warsztaty chemiczno-fizyczne z eksperymentami,</span></li><li><span>warsztaty podróżnicze, &#160;</span></li><li><span>warsztaty przyrodnicze,</span></li><li><span>warsztaty filozoficzne,</span></li><li><span>warsztaty tworzenia mydeł,</span></li><li><span>warsztaty musujących kul do kąpieli,</span></li><li><span>warsztaty tworzenia ozdobnych świec,</span></li><li><span>warsztaty upcyklingowe,</span></li><li><span>warsztaty czerpania papieru,</span></li><li><span>warsztaty tworzenia masek karnawałowych,</span></li><li><span>warsztaty florystyczne (stroiki, wianki, sukulenty w szkle) - i inne, np. piankoryt, masa solna, malowanie na wodzie,</span></li><li><span>pokazy eksperymentów chemicznych.</span></li></ul><p>Szczegółowe opisy wszystkich warsztatów i pokazów edukacyjnych oraz informacje organizacyjne na stronie internetowej <a href="http://pracowniawiatrak.pl/aktualnosci">Pracowni</a>.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Pracownia Edukacyjna Wiatrak, os. Pod Lipami 8, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-18 00:00:00</event_start>
+        <event_end>2019-10-31 00:00:00</event_end>
+        <event_modified>2019-09-18 08:53:35</event_modified>
+        <category>Oświata</category>
+    </event>
+    <event>
+        <event_id>112368</event_id>
+        <event_created>2019-09-05 08:34:32</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/zajecia-dla-dzieci-na-trampolinach,112368.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Zajęcia dla dzieci na trampolinach]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>TRAMPOLINY to intensywny trening interwałowy, ale przede wszystkim radość skakania!</p><p>Klub gwarantuje:</p><ul><li><span>skoki pod okiem wykwalifikowanego trenera,</span></li><li><span>45-minutowy zróżnicowany trening w formie zabawy,</span></li><li><span>zużycie niewyczerpalnej energii Waszej pociechy,</span></li><li><span>zadowolenie rodziców.</span></li></ul><p>Zajęcia są skierowane do dzieci od 5. roku życia.</p><p>Koszt pierwszych zajęć: 15 zł, kolejne według cennika. Akceptujemy Karty Dużej Rodziny.</p><p>Zapisy: <a href="mailto:recepcja.miodcytryna@gmail.com">recepcja.miodcytryna@gmail.com<br /></a> (liczba miejsc ograniczona).</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Miód Cytryna Fitness Club, ul. Górna Wilda 74/65, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-13 16:30:00</event_start>
+        <event_end>2019-12-20 17:30:00</event_end>
+        <event_modified>2019-09-05 09:53:47</event_modified>
+        <category>Sport</category>
+    </event>
+    <event>
+        <event_id>112368</event_id>
+        <event_created>2019-09-05 08:34:32</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/zajecia-dla-dzieci-na-trampolinach,112368.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Zajęcia dla dzieci na trampolinach]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>TRAMPOLINY to intensywny trening interwałowy, ale przede wszystkim radość skakania!</p><p>Klub gwarantuje:</p><ul><li><span>skoki pod okiem wykwalifikowanego trenera,</span></li><li><span>45-minutowy zróżnicowany trening w formie zabawy,</span></li><li><span>zużycie niewyczerpalnej energii Waszej pociechy,</span></li><li><span>zadowolenie rodziców.</span></li></ul><p>Zajęcia są skierowane do dzieci od 5. roku życia.</p><p>Koszt pierwszych zajęć: 15 zł, kolejne według cennika. Akceptujemy Karty Dużej Rodziny.</p><p>Zapisy: <a href="mailto:recepcja.miodcytryna@gmail.com">recepcja.miodcytryna@gmail.com<br /></a> (liczba miejsc ograniczona).</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Miód Cytryna Fitness Club, ul. Górna Wilda 74/65, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-13 16:30:00</event_start>
+        <event_end>2019-12-20 17:30:00</event_end>
+        <event_modified>2019-09-05 09:53:47</event_modified>
+        <category>Sport</category>
+    </event>
+    <event>
+        <event_id>112487</event_id>
+        <event_created>2019-09-09 15:15:45</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/pulapki-symulacje-transmisje-obszary-postfotografii,112487.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Pułapki Symulacje Transmisje obszary postfotografii]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Postfotografia zrodziła się z niewiary lub utraty naiwności. Pojawiała się dlatego, że nie wierzymy dalej w etos fotografii. Jej indeksalna natura już o niczym nie zaświadcza, natomiast otaczająca ją pseudomagiczna aura nadal zyskuje na znaczeniu. Rozpoznanie tych zmian, ich analiza i krytyka jest w dużej części domeną doświadczenia artystycznego. To ono najpełniej potrafi uchwycić paradoksy takich quasi-fotograficznych obrazów, które bez przeszkód akceptujemy, aby po chwili móc je odrzucić; obrazów pułapek, symulowanych widoków i transmisji rzeczy zaledwie możliwych.</p><p>Narzędziem postfotografii okazuje się być wszystko, co rejestruje/generuje/symuluje zjawiska na wzór obrazu. Odsłanianie nowych komunikacyjnych i ekspresyjnych aspektów takich zjawisk jest motywem spajającym prezentowane na wystawie realizacje.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria Miejska Arsenał</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-13 00:00:00</event_start>
+        <event_end>2019-11-03 00:00:00</event_end>
+        <event_modified>2019-09-09 15:21:58</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112487</event_id>
+        <event_created>2019-09-09 15:15:45</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/pulapki-symulacje-transmisje-obszary-postfotografii,112487.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Pułapki Symulacje Transmisje obszary postfotografii]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Postfotografia zrodziła się z niewiary lub utraty naiwności. Pojawiała się dlatego, że nie wierzymy dalej w etos fotografii. Jej indeksalna natura już o niczym nie zaświadcza, natomiast otaczająca ją pseudomagiczna aura nadal zyskuje na znaczeniu. Rozpoznanie tych zmian, ich analiza i krytyka jest w dużej części domeną doświadczenia artystycznego. To ono najpełniej potrafi uchwycić paradoksy takich quasi-fotograficznych obrazów, które bez przeszkód akceptujemy, aby po chwili móc je odrzucić; obrazów pułapek, symulowanych widoków i transmisji rzeczy zaledwie możliwych.</p><p>Narzędziem postfotografii okazuje się być wszystko, co rejestruje/generuje/symuluje zjawiska na wzór obrazu. Odsłanianie nowych komunikacyjnych i ekspresyjnych aspektów takich zjawisk jest motywem spajającym prezentowane na wystawie realizacje.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria Miejska Arsenał</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-13 00:00:00</event_start>
+        <event_end>2019-11-03 00:00:00</event_end>
+        <event_modified>2019-09-09 15:21:58</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>111998</event_id>
+        <event_created>2019-08-12 14:09:46</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wkraczajac-w-nowy-wymiar-tworczosc-sophie-taeuber-arp,111998.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wkraczając w nowy wymiar. Twórczość Sophie Taeuber-Arp]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Wystawa prac z kolekcji Fundacji Arp, Berlin / Rolandswerth, kuratorka: dr Maike Steinkamp.<br />Wystawa czynna: wt.-nd. w g. 12-20.<br />Bilety: 10 zł (n), 7 zł (u).</p><p>Twórczość Sophie Taeuber-Arp uznaje się za modelowe odzwierciedlenie abstrakcyjno-geometrycznych koncepcji, jakie rozwinęły się w pierwszej połowie XX wieku w różnych krajach, także w Polsce. Wystawa w Centrum Kultury ZAMEK zaprezentuje dorobek Sophie Taeuber-Arp z okresu: od końca lat 20. XX wieku do przedwczesnej, tragicznej śmierci artystki w styczniu 1943 roku. W tych bowiem latach Sophie Taeuber-Arp wypracowała swój charakterystyczny, unikalny styl i zbudowała świadomość siebie jako wolnej, nieograniczonej konwencjami twórczyni. Sophie Taeuber-Arp znalazła się w gronie artystów nowoczesnych z kręgu abstrakcji i konstruktywizmu, takich jak: Hans Arp, Alexander Calder, Joan Miró czy Katarzyna Kobro. Wszyscy oni złożyli swoje podpisy pod &quot;Manifestem dymensjonistycznym&quot; - jednym z najważniejszych tekstów programowych awangardy w historii sztuk wizualnych.</p><p>Wkład Sophie Taeuber-Arp w rozwój nurtu abstrakcyjnego i geometrycznego oraz znaczenie jej dorobku były przez wiele lat niedostrzegane i niedoceniane. Obecnie jednak uznaje się jej twórczość za modelową reprezentację abstrakcyjno-geometrycznych koncepcji, jakie rozwinęły się<br />w pierwszej połowie XX wieku w różnych krajach, także w Polsce, i odzwierciedlały wejście sztuk plastycznych w nowy wymiar.</p><p>Wernisaż wystawy: 12.09. 2019 o godzinie 19:00 w Atrium.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>CK Zamek, Sala Wystaw, ul. Święty Marcin 80/82, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-13 00:00:00</event_start>
+        <event_end>2019-11-24 00:00:00</event_end>
+        <event_modified>2019-09-09 15:28:34</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>111998</event_id>
+        <event_created>2019-08-12 14:09:46</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wkraczajac-w-nowy-wymiar-tworczosc-sophie-taeuber-arp,111998.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wkraczając w nowy wymiar. Twórczość Sophie Taeuber-Arp]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Wystawa prac z kolekcji Fundacji Arp, Berlin / Rolandswerth, kuratorka: dr Maike Steinkamp.<br />Wystawa czynna: wt.-nd. w g. 12-20.<br />Bilety: 10 zł (n), 7 zł (u).</p><p>Twórczość Sophie Taeuber-Arp uznaje się za modelowe odzwierciedlenie abstrakcyjno-geometrycznych koncepcji, jakie rozwinęły się w pierwszej połowie XX wieku w różnych krajach, także w Polsce. Wystawa w Centrum Kultury ZAMEK zaprezentuje dorobek Sophie Taeuber-Arp z okresu: od końca lat 20. XX wieku do przedwczesnej, tragicznej śmierci artystki w styczniu 1943 roku. W tych bowiem latach Sophie Taeuber-Arp wypracowała swój charakterystyczny, unikalny styl i zbudowała świadomość siebie jako wolnej, nieograniczonej konwencjami twórczyni. Sophie Taeuber-Arp znalazła się w gronie artystów nowoczesnych z kręgu abstrakcji i konstruktywizmu, takich jak: Hans Arp, Alexander Calder, Joan Miró czy Katarzyna Kobro. Wszyscy oni złożyli swoje podpisy pod &quot;Manifestem dymensjonistycznym&quot; - jednym z najważniejszych tekstów programowych awangardy w historii sztuk wizualnych.</p><p>Wkład Sophie Taeuber-Arp w rozwój nurtu abstrakcyjnego i geometrycznego oraz znaczenie jej dorobku były przez wiele lat niedostrzegane i niedoceniane. Obecnie jednak uznaje się jej twórczość za modelową reprezentację abstrakcyjno-geometrycznych koncepcji, jakie rozwinęły się<br />w pierwszej połowie XX wieku w różnych krajach, także w Polsce, i odzwierciedlały wejście sztuk plastycznych w nowy wymiar.</p><p>Wernisaż wystawy: 12.09. 2019 o godzinie 19:00 w Atrium.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>CK Zamek, Sala Wystaw, ul. Święty Marcin 80/82, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-13 00:00:00</event_start>
+        <event_end>2019-11-24 00:00:00</event_end>
+        <event_modified>2019-09-09 15:28:34</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112337</event_id>
+        <event_created>2019-09-02 09:11:58</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wystawa-srebro,112337.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wystawa Srebro]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Galeria Sztuki Złotniczej YES wraz z Galerią Sztuki w Legnicy zapraszają na wernisaż wystawy SREBRO, podczas której zaprezentowanych zostanie blisko 40 prac z cąłego świata zakwalifikowanych do finału najważniejszego w Polsce konkursu złotniczego. Tematem 28. Międzynarodowego Konkursu Sztuki Złotniczej było SREBRO, dzięki czemu artyści musieli niejako wrócić do korzeni, dokonać reinterpretacji pojęcia &quot;materiał szlachetny&quot;, a także sięgnąć do zródeł warsztatu i pracy z materią.<br />Spośród 383 prac nadesłanych przez 190 artystów z 33 krajów do wystawy zakwalifikowano obiekty 37 artystów, głównie z Europy, ale także z Izraela, Meksyku czy Korei Południowej. Wszystkie oglądać będzie można w poznańskiej Galerii YES od 6 września<br />do 4 października 2019 r.</p><p>Wernisaż: 6 września godz. 19:00<br />Główną nagrodę przyznano Pawłowi Kaczyńskiemu za pracę &quot;Srebrna poduszka&quot;. Kubiczna forma bransolety skrywa w swoim wnętrzu pierze. Ze względu na swoją geometryczną formę wydaje się być ciężka i masywna, a w rzeczywistości jest bardzo lekka. Kaczyński pokazując prosty, ale wymagający zaawansowanych umiejętności rzemieślniczych przedmiot, zaprezentował właściwości tego plastycznego metalu. Uciekając się do iluzji, zadrwił z oczekiwań inwestora w kruszec.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria Sztuki Złotniczej YES, Poznań, ul. Paderewskiego 7</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-06 00:00:00</event_start>
+        <event_end>2019-10-04 00:00:00</event_end>
+        <event_modified>2019-09-02 09:11:58</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112337</event_id>
+        <event_created>2019-09-02 09:11:58</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wystawa-srebro,112337.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wystawa Srebro]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Galeria Sztuki Złotniczej YES wraz z Galerią Sztuki w Legnicy zapraszają na wernisaż wystawy SREBRO, podczas której zaprezentowanych zostanie blisko 40 prac z cąłego świata zakwalifikowanych do finału najważniejszego w Polsce konkursu złotniczego. Tematem 28. Międzynarodowego Konkursu Sztuki Złotniczej było SREBRO, dzięki czemu artyści musieli niejako wrócić do korzeni, dokonać reinterpretacji pojęcia &quot;materiał szlachetny&quot;, a także sięgnąć do zródeł warsztatu i pracy z materią.<br />Spośród 383 prac nadesłanych przez 190 artystów z 33 krajów do wystawy zakwalifikowano obiekty 37 artystów, głównie z Europy, ale także z Izraela, Meksyku czy Korei Południowej. Wszystkie oglądać będzie można w poznańskiej Galerii YES od 6 września<br />do 4 października 2019 r.</p><p>Wernisaż: 6 września godz. 19:00<br />Główną nagrodę przyznano Pawłowi Kaczyńskiemu za pracę &quot;Srebrna poduszka&quot;. Kubiczna forma bransolety skrywa w swoim wnętrzu pierze. Ze względu na swoją geometryczną formę wydaje się być ciężka i masywna, a w rzeczywistości jest bardzo lekka. Kaczyński pokazując prosty, ale wymagający zaawansowanych umiejętności rzemieślniczych przedmiot, zaprezentował właściwości tego plastycznego metalu. Uciekając się do iluzji, zadrwił z oczekiwań inwestora w kruszec.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Galeria Sztuki Złotniczej YES, Poznań, ul. Paderewskiego 7</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-06 00:00:00</event_start>
+        <event_end>2019-10-04 00:00:00</event_end>
+        <event_modified>2019-09-02 09:11:58</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112321</event_id>
+        <event_created>2019-08-30 15:39:29</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/poznan-na-przelomie-wiekow-nowa-wystawa-w-fotoplastykonie-poznanskim,112321.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Poznań na przełomie wieków - nowa wystawa w Fotoplastykonie Poznańskim]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Oglądając najnowszą wystawę w Fotoplastykonie Poznańskim, przeniesiemy się w czasie, by zobaczyć, jak zmieniało się nasze miasto przez niemal 150 lat. Podróż rozpoczniemy od 1888 r., kiedy to pruskie wówczas miasto Posen nawiedziła jedna z największych w dziejach powodzi. Zniszczenia były pokaźne, ucierpiała znaczna część Starego Miasta, a stan wód osiągnął taką wysokość, że ulicę Garbary można było pokonać łodzią. Śladami, jakie pozostały po tym wydarzeniu do dzisiaj, są tabliczki znajdujące się przy ulicy Długiej i w kościele Bożego Ciała na Piaskach. Wysokość ich zawieszenia upamiętnia stan, jaki woda osiągnęła<br />w trakcie powodzi (ponad 58 m n.p.m.). Następnie przejdziemy na słynne poznańskie place. Pierwszy z nich - plac Wilhelmowski (dzisiejszy plac Wolności) rozpoznamy dzięki pomnikowi nachodzkiemu z 1870 r. przedstawiającemu lwa w otoczeniu czterech pruskich żołnierzy. Monument ten, zaprojektowany przez C&#228;sara Stenzla, upamiętniał bitwę pod czeskim N&#225;chodem i był jednym z symboli niemieckiego panowania nad Wartą.<br />Podobną wymowę miała nieco późniejsza, odsłonięta w 1903 r. statua przedstawiająca kanclerza Ottona von Bismarcka ustawiona na dzisiejszym placu Adama Mickiewicza. Obydwa pomniki miały w Poznaniu raczej ponurą sławą. Często obrzucane kamieniami symbole dominacji zaborcy ostatecznie zniknęły z przestrzeni miejskiej po zwycięskim powstaniu wielkopolskim. Prezentowane stereofotografie z tego najwcześniejszego okresu pochodzą ze zbiorów Biblioteki Uniwersyteckiej w Poznaniu...<br />Marcel Skierski</p><p><strong>Godziny otwarcia:&#160;</strong>poniedziałek - piątek 10 - 18, sobota 10 - 17, niedziela nieczynne, ostatnie wejście do Fotoplastykonu godzinę przed zamknięciem</p><p><strong>Bilety:&#160;</strong>normalny - 5 zł, ulgowy - 2 zł, rodzinny -10 zł, grupowy (10 lub więcej osób) - 20 zł</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Centrum Informacji Kulturalnej, ul. Ratajczaka 44</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-04 00:00:00</event_start>
+        <event_end>2019-11-30 00:00:00</event_end>
+        <event_modified>2019-08-30 15:39:56</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112321</event_id>
+        <event_created>2019-08-30 15:39:29</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/poznan-na-przelomie-wiekow-nowa-wystawa-w-fotoplastykonie-poznanskim,112321.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Poznań na przełomie wieków - nowa wystawa w Fotoplastykonie Poznańskim]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Oglądając najnowszą wystawę w Fotoplastykonie Poznańskim, przeniesiemy się w czasie, by zobaczyć, jak zmieniało się nasze miasto przez niemal 150 lat. Podróż rozpoczniemy od 1888 r., kiedy to pruskie wówczas miasto Posen nawiedziła jedna z największych w dziejach powodzi. Zniszczenia były pokaźne, ucierpiała znaczna część Starego Miasta, a stan wód osiągnął taką wysokość, że ulicę Garbary można było pokonać łodzią. Śladami, jakie pozostały po tym wydarzeniu do dzisiaj, są tabliczki znajdujące się przy ulicy Długiej i w kościele Bożego Ciała na Piaskach. Wysokość ich zawieszenia upamiętnia stan, jaki woda osiągnęła<br />w trakcie powodzi (ponad 58 m n.p.m.). Następnie przejdziemy na słynne poznańskie place. Pierwszy z nich - plac Wilhelmowski (dzisiejszy plac Wolności) rozpoznamy dzięki pomnikowi nachodzkiemu z 1870 r. przedstawiającemu lwa w otoczeniu czterech pruskich żołnierzy. Monument ten, zaprojektowany przez C&#228;sara Stenzla, upamiętniał bitwę pod czeskim N&#225;chodem i był jednym z symboli niemieckiego panowania nad Wartą.<br />Podobną wymowę miała nieco późniejsza, odsłonięta w 1903 r. statua przedstawiająca kanclerza Ottona von Bismarcka ustawiona na dzisiejszym placu Adama Mickiewicza. Obydwa pomniki miały w Poznaniu raczej ponurą sławą. Często obrzucane kamieniami symbole dominacji zaborcy ostatecznie zniknęły z przestrzeni miejskiej po zwycięskim powstaniu wielkopolskim. Prezentowane stereofotografie z tego najwcześniejszego okresu pochodzą ze zbiorów Biblioteki Uniwersyteckiej w Poznaniu...<br />Marcel Skierski</p><p><strong>Godziny otwarcia:&#160;</strong>poniedziałek - piątek 10 - 18, sobota 10 - 17, niedziela nieczynne, ostatnie wejście do Fotoplastykonu godzinę przed zamknięciem</p><p><strong>Bilety:&#160;</strong>normalny - 5 zł, ulgowy - 2 zł, rodzinny -10 zł, grupowy (10 lub więcej osób) - 20 zł</p><p>opr.sw</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Centrum Informacji Kulturalnej, ul. Ratajczaka 44</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-09-04 00:00:00</event_start>
+        <event_end>2019-11-30 00:00:00</event_end>
+        <event_modified>2019-08-30 15:39:56</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>112038</event_id>
+        <event_created>2019-08-13 10:58:52</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/mitingi-aa-w-poznaniu,112038.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Mitingi AA w Poznaniu]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Lista mitingów w załączniku.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-08-13 00:00:00</event_start>
+        <event_end>2019-12-19 00:00:00</event_end>
+        <event_modified>2019-08-13 10:58:52</event_modified>
+        <category>Zdrowie</category>
+    </event>
+    <event>
+        <event_id>112038</event_id>
+        <event_created>2019-08-13 10:58:52</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/mitingi-aa-w-poznaniu,112038.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Mitingi AA w Poznaniu]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Lista mitingów w załączniku.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-08-13 00:00:00</event_start>
+        <event_end>2019-12-19 00:00:00</event_end>
+        <event_modified>2019-08-13 10:58:52</event_modified>
+        <category>Zdrowie</category>
+    </event>
+    <event>
+        <event_id>111297</event_id>
+        <event_created>2019-07-01 11:48:23</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/zielona-sahara-wystawa,111297.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Zielona Sahara - wystawa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Unikalna wystawa podsumowująca działalność polskich archeologów badających tereny dzisiejszego Sudanu i Egiptu.</p><p>Wystawa czynna będzie od 2 lipca do 30 listopada 2019 roku.</p><p>Po raz pierwszy w historii polskiego muzealnictwa wystawa prezentuje zagadnienia dorobku polskich naukowców badających obszary pustynne Afryki Północnej. Badania te, rozpoczęte w latach 60. XX wieku, w ostatnim czasie przeżywają niezwykle dynamiczny rozwój, co sprzyja prezentacji dawniejszych prac i przypomnieniu o ich fundamentalnym znaczeniu dla współczesnych badań.</p><p>Wystawa podzielona została na trzy części. Pierwsza z nich prezentuje zmiany środowiska przyrodniczego na terenie Sahary w ciągu ostatnich 500 tys. Ilustrowane są one materiałami pochodzącymi z polskich wykopalisk (szczątki roślinne i zwierzęce).</p><p>Na szczególną uwagę zasługuje nigdzie dotąd nie prezentowany możdżeń i fragmenty czaszki tura z Affad w Sudanie. Szczątki te, datowane na ok. 50 tys. lat, są nie tylko jednymi z najstarszych w Afryce, ale wyznaczają też najdalszy na południe zasięg tego gatunku na świecie.</p><p>W drugiej części wystawy prezentowane są wyniki prac prowadzonych na kilkudziesięciu stanowiskach archeologicznych - osadach i cmentarzyskach - dających pełen obraz zmian w kulturze materialnej w epoce kamienia.</p><p>Trzecia część wystawy poświęcona jest sztuce naskalnej. Podziwiać ją będzie można nie tylko na wielkoformatowych fotogramach, ale także na głazach pozyskanych w trakcie archeologicznej akcji ratowniczej w rejonie IV Katarakty na Nilu w Sudanie.</p><p>Warto dodać, że tego rodzaju zabytki niezwykle rzadko są elementem wystawowym w muzeach europejskich, a do wyjątków należy np. the British Museum.</p><p>Wystawa skierowana jest do szerokiego grona odbiorców, od dzieci i młodzieży po specjalistów, gdyż niektóre z zabytków będą prezentowane po raz pierwszy od chwili ich odkrycia. Jest to przede wszystkim wyjątkowa okazja dla mieszkańców Poznania i okolic, a także turystów krajowych i zagranicznych, aby móc zapoznać się z polskimi badaniami nad prahistorią największej pustyni świata. Jako że w Muzeum znajduje się wystawa stała pt. &quot;Pradzieje Wielkopolski&quot;, wystawa o pradziejach Sahary pozwala zwiedzającym na dokonanie niezwykle ciekawych porównań dwóch jakże odmiennych światów.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Muzeum Archeologiczne, PałacGórków, ul. Wodna 27, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-07-02 00:00:00</event_start>
+        <event_end>2019-11-30 00:00:00</event_end>
+        <event_modified>2019-07-01 11:49:42</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>111297</event_id>
+        <event_created>2019-07-01 11:48:23</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/zielona-sahara-wystawa,111297.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Zielona Sahara - wystawa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Unikalna wystawa podsumowująca działalność polskich archeologów badających tereny dzisiejszego Sudanu i Egiptu.</p><p>Wystawa czynna będzie od 2 lipca do 30 listopada 2019 roku.</p><p>Po raz pierwszy w historii polskiego muzealnictwa wystawa prezentuje zagadnienia dorobku polskich naukowców badających obszary pustynne Afryki Północnej. Badania te, rozpoczęte w latach 60. XX wieku, w ostatnim czasie przeżywają niezwykle dynamiczny rozwój, co sprzyja prezentacji dawniejszych prac i przypomnieniu o ich fundamentalnym znaczeniu dla współczesnych badań.</p><p>Wystawa podzielona została na trzy części. Pierwsza z nich prezentuje zmiany środowiska przyrodniczego na terenie Sahary w ciągu ostatnich 500 tys. Ilustrowane są one materiałami pochodzącymi z polskich wykopalisk (szczątki roślinne i zwierzęce).</p><p>Na szczególną uwagę zasługuje nigdzie dotąd nie prezentowany możdżeń i fragmenty czaszki tura z Affad w Sudanie. Szczątki te, datowane na ok. 50 tys. lat, są nie tylko jednymi z najstarszych w Afryce, ale wyznaczają też najdalszy na południe zasięg tego gatunku na świecie.</p><p>W drugiej części wystawy prezentowane są wyniki prac prowadzonych na kilkudziesięciu stanowiskach archeologicznych - osadach i cmentarzyskach - dających pełen obraz zmian w kulturze materialnej w epoce kamienia.</p><p>Trzecia część wystawy poświęcona jest sztuce naskalnej. Podziwiać ją będzie można nie tylko na wielkoformatowych fotogramach, ale także na głazach pozyskanych w trakcie archeologicznej akcji ratowniczej w rejonie IV Katarakty na Nilu w Sudanie.</p><p>Warto dodać, że tego rodzaju zabytki niezwykle rzadko są elementem wystawowym w muzeach europejskich, a do wyjątków należy np. the British Museum.</p><p>Wystawa skierowana jest do szerokiego grona odbiorców, od dzieci i młodzieży po specjalistów, gdyż niektóre z zabytków będą prezentowane po raz pierwszy od chwili ich odkrycia. Jest to przede wszystkim wyjątkowa okazja dla mieszkańców Poznania i okolic, a także turystów krajowych i zagranicznych, aby móc zapoznać się z polskimi badaniami nad prahistorią największej pustyni świata. Jako że w Muzeum znajduje się wystawa stała pt. &quot;Pradzieje Wielkopolski&quot;, wystawa o pradziejach Sahary pozwala zwiedzającym na dokonanie niezwykle ciekawych porównań dwóch jakże odmiennych światów.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Muzeum Archeologiczne, PałacGórków, ul. Wodna 27, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-07-02 00:00:00</event_start>
+        <event_end>2019-11-30 00:00:00</event_end>
+        <event_modified>2019-07-01 11:49:42</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>110983</event_id>
+        <event_created>2019-06-11 13:25:03</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/bezplatna-rehabilitacja-dzienna-dla-seniorow-finansowana-przez-miasto-poznan-zapisy,110983.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Bezpłatna rehabilitacja dzienna dla seniorów finansowana przez Miasto Poznań - zapisy!]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Rehabilitacja 65+ to odpowiedź Miasta Poznania na potrzebę nieustannej poprawy jakości życia mieszkańców, których stan zdrowia wymaga wsparcia. Osoby w wieku 65+ mogą bezpłatnie korzystać z zabiegów rehabilitacyjnych oferowanych w Ośrodku Rehabilitacji Dziennej przy ul. Mogileńskiej 42.</p><p><strong>Komu przysługuje rehabilitacja?</strong><br />Z rehabilitacji mogą skorzystać osoby w wieku 65+, które zostały zakwalifikowane do tego rodzaju świadczeń zdrowotnych przez odpowiedniego lekarza specjalistę i oczekują w kolejce na zlecone zabiegi. Podstawą przyjęcia pacjenta na rehabilitację jest skierowanie.</p><p><strong>Jak można zakwalifikować się do rehabilitacji?</strong><br />Kwalifikacji na rehabilitację dokonuje lekarz oddziału rehabilitacyjnego na podstawie skierowania. Osoby zainteresowane skorzystaniem z bezpłatnych zabiegów mogą się zgłosić telefonicznie lub mailowo bezpośrednio do Ośrodka Rehabilitacji Dziennej. Kwalifikacja odbywa się od poniedziałku do piątku w godzinach od 8.00 do 13.00.</p><p><strong>Uwaga!</strong> Na skierowaniu musi być czytelna pieczątka nagłówkowa jednostki kierującej z aktualnym numerem umowy z NFZ, numerem REGON i numerem kodu resortowego oraz czytelna pieczątka lekarza wystawiającego skierowanie.</p><p><strong>Wymagane dokumenty</strong><br />W dniu zgłoszenia się na badanie lekarskie pacjent powinien posiadać dowód osobisty (PESEL), dokument potwierdzający ubezpieczenie zdrowotne oraz inne dokumenty potwierdzające schorzenia i stanowiące podstawę do adekwatnego do schorzenia dobrania zabiegów rehabilitacyjnych.</p><p><strong>Gdzie odbywa się rehabilitacja?</strong><br />Zabiegi rehabilitacyjne opłacone przez Miasto Poznań prowadzone są w salach Ośrodka przy ul. Mogileńskiej 42 w godz. od 6.00 do 8.00.</p><p>Ośrodek Rehabilitacji Dziennej prowadzi kompleksową rehabilitację pacjentów, których stan zdrowia nie pozwala na rehabilitację w warunkach ambulatoryjnych, a pacjent nie wymaga całodobowego nadzoru medycznego.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Zakład Opiekuńczo-Leczniczy i Rehabilitacji Medycznej w Poznaniu, ul. Mogileńska 42</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-07-01 06:00:00</event_start>
+        <event_end>2019-10-31 08:00:00</event_end>
+        <event_modified>2019-06-11 14:09:38</event_modified>
+        <category>Zdrowie</category>
+    </event>
+    <event>
+        <event_id>110983</event_id>
+        <event_created>2019-06-11 13:25:03</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/bezplatna-rehabilitacja-dzienna-dla-seniorow-finansowana-przez-miasto-poznan-zapisy,110983.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Bezpłatna rehabilitacja dzienna dla seniorów finansowana przez Miasto Poznań - zapisy!]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Rehabilitacja 65+ to odpowiedź Miasta Poznania na potrzebę nieustannej poprawy jakości życia mieszkańców, których stan zdrowia wymaga wsparcia. Osoby w wieku 65+ mogą bezpłatnie korzystać z zabiegów rehabilitacyjnych oferowanych w Ośrodku Rehabilitacji Dziennej przy ul. Mogileńskiej 42.</p><p><strong>Komu przysługuje rehabilitacja?</strong><br />Z rehabilitacji mogą skorzystać osoby w wieku 65+, które zostały zakwalifikowane do tego rodzaju świadczeń zdrowotnych przez odpowiedniego lekarza specjalistę i oczekują w kolejce na zlecone zabiegi. Podstawą przyjęcia pacjenta na rehabilitację jest skierowanie.</p><p><strong>Jak można zakwalifikować się do rehabilitacji?</strong><br />Kwalifikacji na rehabilitację dokonuje lekarz oddziału rehabilitacyjnego na podstawie skierowania. Osoby zainteresowane skorzystaniem z bezpłatnych zabiegów mogą się zgłosić telefonicznie lub mailowo bezpośrednio do Ośrodka Rehabilitacji Dziennej. Kwalifikacja odbywa się od poniedziałku do piątku w godzinach od 8.00 do 13.00.</p><p><strong>Uwaga!</strong> Na skierowaniu musi być czytelna pieczątka nagłówkowa jednostki kierującej z aktualnym numerem umowy z NFZ, numerem REGON i numerem kodu resortowego oraz czytelna pieczątka lekarza wystawiającego skierowanie.</p><p><strong>Wymagane dokumenty</strong><br />W dniu zgłoszenia się na badanie lekarskie pacjent powinien posiadać dowód osobisty (PESEL), dokument potwierdzający ubezpieczenie zdrowotne oraz inne dokumenty potwierdzające schorzenia i stanowiące podstawę do adekwatnego do schorzenia dobrania zabiegów rehabilitacyjnych.</p><p><strong>Gdzie odbywa się rehabilitacja?</strong><br />Zabiegi rehabilitacyjne opłacone przez Miasto Poznań prowadzone są w salach Ośrodka przy ul. Mogileńskiej 42 w godz. od 6.00 do 8.00.</p><p>Ośrodek Rehabilitacji Dziennej prowadzi kompleksową rehabilitację pacjentów, których stan zdrowia nie pozwala na rehabilitację w warunkach ambulatoryjnych, a pacjent nie wymaga całodobowego nadzoru medycznego.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Zakład Opiekuńczo-Leczniczy i Rehabilitacji Medycznej w Poznaniu, ul. Mogileńska 42</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-07-01 06:00:00</event_start>
+        <event_end>2019-10-31 08:00:00</event_end>
+        <event_modified>2019-06-11 14:09:38</event_modified>
+        <category>Zdrowie</category>
+    </event>
+    <event>
+        <event_id>106039</event_id>
+        <event_created>2018-11-05 10:43:49</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wyscig-jaszczurow-zglaszanie-prac-konkursowych,106039.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wyścig Jaszczurów - zgłaszanie prac konkursowych]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>X Festiwalu Niezależnej Twórczości Filmowej Osób Dojrzałych &quot;Wyścig Jaszczurów&quot; - zgłaszanie prac konkursowych</p><p>W pokazie konkursowym mogą uczestniczyć filmy i fotografie zrealizowane przez autorów, którzy w dniu zgłaszania filmu lub fotografii mają ukończone co najmniej 60 lat. W przypadku pracy zbiorowej, przynajmniej jeden z twórców musi mieć ukończone 60 lat.</p><p>Utwory zgłaszane na konkurs nie ogą być realizacjami komercyjnymi bądź promocyjnymii nie mogą powstać wcześniej niż w 2009 r. Czas trwania filmu nie może przekraczać 60 minut. Każdy autor może zgłosić maksymalnie 3 filmy i&#160; 10 fotogrfii lub 3 cykle zdjęć.</p><p>Filmy i fotografie należy zgłaszać pod adresem -&#160;Polskie Towarzystwo Artystów, Autorów i Animatorów Kultury PTAAAK, os. Wichrowe Wzgórze 17 m. 2, 61-676 Poznań. Organizator nie pobiera żadnych opłat za zgłoszenie filmu lub fotografii.</p><p><strong>Termin nadsyłania prac wraz z kartą uczestnictwa upływa ostatecznie 15 października br., do godz. 24:00.</strong></p><p><a href="http://www.facebook.com/573647582826791/photos/pcb.746297265561821/748263202031894/?type=3&amp;theater">Karta zgłoszenia filmu</a></p><p><a href="http://www.facebook.com/573647582826791/photos/pcb.746297265561821/748263172031897/?type=3&amp;theater">Karta zgłoszenia fotografii</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Polskie Towarzystwo Artystów, Autorów i Animatorów Kultury PTAAAK, ul. Turkusowa 3, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-06-24 00:00:00</event_start>
+        <event_end>2019-10-15 00:00:00</event_end>
+        <event_modified>2019-06-24 12:48:10</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>106039</event_id>
+        <event_created>2018-11-05 10:43:49</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/wyscig-jaszczurow-zglaszanie-prac-konkursowych,106039.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Wyścig Jaszczurów - zgłaszanie prac konkursowych]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>X Festiwalu Niezależnej Twórczości Filmowej Osób Dojrzałych &quot;Wyścig Jaszczurów&quot; - zgłaszanie prac konkursowych</p><p>W pokazie konkursowym mogą uczestniczyć filmy i fotografie zrealizowane przez autorów, którzy w dniu zgłaszania filmu lub fotografii mają ukończone co najmniej 60 lat. W przypadku pracy zbiorowej, przynajmniej jeden z twórców musi mieć ukończone 60 lat.</p><p>Utwory zgłaszane na konkurs nie ogą być realizacjami komercyjnymi bądź promocyjnymii nie mogą powstać wcześniej niż w 2009 r. Czas trwania filmu nie może przekraczać 60 minut. Każdy autor może zgłosić maksymalnie 3 filmy i&#160; 10 fotogrfii lub 3 cykle zdjęć.</p><p>Filmy i fotografie należy zgłaszać pod adresem -&#160;Polskie Towarzystwo Artystów, Autorów i Animatorów Kultury PTAAAK, os. Wichrowe Wzgórze 17 m. 2, 61-676 Poznań. Organizator nie pobiera żadnych opłat za zgłoszenie filmu lub fotografii.</p><p><strong>Termin nadsyłania prac wraz z kartą uczestnictwa upływa ostatecznie 15 października br., do godz. 24:00.</strong></p><p><a href="http://www.facebook.com/573647582826791/photos/pcb.746297265561821/748263202031894/?type=3&amp;theater">Karta zgłoszenia filmu</a></p><p><a href="http://www.facebook.com/573647582826791/photos/pcb.746297265561821/748263172031897/?type=3&amp;theater">Karta zgłoszenia fotografii</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Polskie Towarzystwo Artystów, Autorów i Animatorów Kultury PTAAAK, ul. Turkusowa 3, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-06-24 00:00:00</event_start>
+        <event_end>2019-10-15 00:00:00</event_end>
+        <event_modified>2019-06-24 12:48:10</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>110944</event_id>
+        <event_created>2019-06-10 09:57:10</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sprawa-dreyfusa-wystawa,110944.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sprawa Dreyfusa - wystawa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Wystawa poświęcona Sprawie Dreyfusa, zorganizowana z okazji 125. rocznicy Sprawy i 120-lecia rewizji procesu Dreyfusa w Rennes. Wystawa została przygotowana przy współpracy Mus&#233;e de Bretagne de Rennes, któremu organizatorzy dziękują za udostępnienie dokumentów ze swoich zbiorów.</p><p>Wystawa będzie czynna do 10 października (termin wydłużony).</p><p>Wstęp wolny.</p><p>Sprawa Dreyfusa to jedna z najbardziej znanych spraw sądowych w historii. Oskarżenie o zdradę i skazanie w 1894 r. w Paryżu niewinnego francuskiego oficera pochodzenia żydowskiego, kapitana Alfreda Dreyfusa, wzbudziło wielkie poruszenie we Francji i na całym świecie. Od skazania Dreyfusa do uniewinnienia go i rehabilitacji w 1906 minęło 12 lat.</p><p>W tym czasie i w reakcji na Sprawę kształtują się takie podmioty zbiorowe, jak obrońcy praw człowieka, intelektualiści, opinia publiczna. To ich zaangażowanie na niespotykaną dotychczas skalę zaczyna zmieniać społeczeństwo francuskie, wpływać na decyzje rządzących i na nastawienie prasy.</p><p>W 1899 r. w Rennes odbył się proces rewizyjny Dreyfusa. Muzeum Bretanii w Rennes posiada ogromną kolekcję dokumentów z tego czasu, którą wzbogaciło rodzinne archiwum rodziny Dreyfusa dotyczące Sprawy, przekazane przez córkę kapitana, Jeanne L&#233;vy.</p><p>Proces Dreyfusa to stare czasy, ale hejt, skrajny nacjonalizm, kłamstwa w życiu publicznym nie przeszły do historii. Sprawa Dreyfusa obudziła świadomość społeczną i wiele zmieniła, zaczynając od założenia w 1898 r. Ligi Obrony Praw Człowieka i Obywatela przez dreyfusistę Ludovica Trarieux, który znalazł naśladowców w wielu krajach.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Dom Bretanii, ul. Stary Rynek 37 (wejście od ul. Wielkiej), Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-06-12 00:00:00</event_start>
+        <event_end>2019-10-10 00:00:00</event_end>
+        <event_modified>2019-09-03 11:23:56</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>110944</event_id>
+        <event_created>2019-06-10 09:57:10</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/sprawa-dreyfusa-wystawa,110944.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Sprawa Dreyfusa - wystawa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Wystawa poświęcona Sprawie Dreyfusa, zorganizowana z okazji 125. rocznicy Sprawy i 120-lecia rewizji procesu Dreyfusa w Rennes. Wystawa została przygotowana przy współpracy Mus&#233;e de Bretagne de Rennes, któremu organizatorzy dziękują za udostępnienie dokumentów ze swoich zbiorów.</p><p>Wystawa będzie czynna do 10 października (termin wydłużony).</p><p>Wstęp wolny.</p><p>Sprawa Dreyfusa to jedna z najbardziej znanych spraw sądowych w historii. Oskarżenie o zdradę i skazanie w 1894 r. w Paryżu niewinnego francuskiego oficera pochodzenia żydowskiego, kapitana Alfreda Dreyfusa, wzbudziło wielkie poruszenie we Francji i na całym świecie. Od skazania Dreyfusa do uniewinnienia go i rehabilitacji w 1906 minęło 12 lat.</p><p>W tym czasie i w reakcji na Sprawę kształtują się takie podmioty zbiorowe, jak obrońcy praw człowieka, intelektualiści, opinia publiczna. To ich zaangażowanie na niespotykaną dotychczas skalę zaczyna zmieniać społeczeństwo francuskie, wpływać na decyzje rządzących i na nastawienie prasy.</p><p>W 1899 r. w Rennes odbył się proces rewizyjny Dreyfusa. Muzeum Bretanii w Rennes posiada ogromną kolekcję dokumentów z tego czasu, którą wzbogaciło rodzinne archiwum rodziny Dreyfusa dotyczące Sprawy, przekazane przez córkę kapitana, Jeanne L&#233;vy.</p><p>Proces Dreyfusa to stare czasy, ale hejt, skrajny nacjonalizm, kłamstwa w życiu publicznym nie przeszły do historii. Sprawa Dreyfusa obudziła świadomość społeczną i wiele zmieniła, zaczynając od założenia w 1898 r. Ligi Obrony Praw Człowieka i Obywatela przez dreyfusistę Ludovica Trarieux, który znalazł naśladowców w wielu krajach.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Dom Bretanii, ul. Stary Rynek 37 (wejście od ul. Wielkiej), Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-06-12 00:00:00</event_start>
+        <event_end>2019-10-10 00:00:00</event_end>
+        <event_modified>2019-09-03 11:23:56</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>110981</event_id>
+        <event_created>2019-06-11 12:22:06</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/kraszewski-dla-sprawy-polskiej-wystawa,110981.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Kraszewski dla sprawy polskiej - wystawa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Kraszewski, zwany również &quot;wielkim nauczycielem historii&quot;, był m.in. autorem około stu powieści historycznych, publicystą i pierwszym autorem opisującym&#160; powstanie styczniowe. Za swoje działania był aresztowany&#160; przez carat, a później za współpracę z wywiadem francuskim został osadzony przez władze pruskie w twierdzy w Magdeburgu. Wystawa prezentuje zaangażowanie pisarza w działania na rzecz odzyskania przez Polskę niepodległości.</p><p>Wystawa czynna od 25 kwietnia do końca 2019 r.</p><p>Godziny otwarcia: od poniedziałku do piątku 10:00-15:00</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Pracownia-Muzeum J. I. Kraszewskiego, ul. Wroniecka 14, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-25 00:00:00</event_start>
+        <event_end>2019-12-31 00:00:00</event_end>
+        <event_modified>2019-06-11 12:22:06</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>110981</event_id>
+        <event_created>2019-06-11 12:22:06</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/kraszewski-dla-sprawy-polskiej-wystawa,110981.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Kraszewski dla sprawy polskiej - wystawa]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Kraszewski, zwany również &quot;wielkim nauczycielem historii&quot;, był m.in. autorem około stu powieści historycznych, publicystą i pierwszym autorem opisującym&#160; powstanie styczniowe. Za swoje działania był aresztowany&#160; przez carat, a później za współpracę z wywiadem francuskim został osadzony przez władze pruskie w twierdzy w Magdeburgu. Wystawa prezentuje zaangażowanie pisarza w działania na rzecz odzyskania przez Polskę niepodległości.</p><p>Wystawa czynna od 25 kwietnia do końca 2019 r.</p><p>Godziny otwarcia: od poniedziałku do piątku 10:00-15:00</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Pracownia-Muzeum J. I. Kraszewskiego, ul. Wroniecka 14, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-25 00:00:00</event_start>
+        <event_end>2019-12-31 00:00:00</event_end>
+        <event_modified>2019-06-11 12:22:06</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>109888</event_id>
+        <event_created>2019-04-23 10:47:03</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/audiowycieczki-po-ostrowie-tumskim,109888.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Audiowycieczki po Ostrowie Tumskim]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>W Bramie Poznania z audioprzewodnikiem zwiedzić można nie tylko multimedialną ekspozycję, ale także Ostrów Tumski. Specjalnie dla zwiedzających przygotowano trzy audiowycieczki w sezonie wiosenno-letnim, który rozpoczyna się 23 kwietnia 2019. Na audiowycieczki można wybrać się od&#160;wtorku do niedzieli, w godzinach od 9:00 do16:00, oraz w weekendy, w&#160;godzinach od&#160; 10:00 do&#160;17:00.</p><p style="text-align: justify;"><a href="http://bramapoznania.pl/?p=926">po Ostrowie Tumskim dla rodzin</a></p><p><a href="http://bramapoznania.pl/oferta/zwiedzanie/audiowycieczki-ostrow-tumski/audiowycieczka-ostrow-tumski-mlodziezy-doroslych/">po Ostrowie Tumskim dla młodzieży i dorosłych</a>&#160; - dostępne w jezykach:&#160;polskim, angielskim, niemieckim, francuskim, czeskim, rosyjskim, ukraińskim oraz hiszpańskim.</p><p><a href="http://bramapoznania.pl/?p=928">po Bazylice Archikatedralnej dla młodzieży i dorosłych</a></p><p>Audioprzewodniki wypożyczane są w Punkcie Informacji w Śluzie Katedralnej w soboty i w niedziele, w&#160;godzinach otwarcia Bramy Poznania, jednakże nie później niż na 120 min. przed jego zamknięciem.<br />Bilety na audiowycieczki:</p><ul><li><span>bilet normalny: 5 zł</span></li><li><span>bilet ulgowy: 3 zł</span></li><li><span>bilet rodzinny: 10 zł</span></li></ul><p>Bilet normalny, ulgowy i rodzinny na Ekspozycję Bramy Poznania uprawnia do skorzystania z usługi audiowycieczki na Ostrów Tumski w terminie do 10 dni od zwiedzania Ekspozycji.</p><p>Liczba audioprzewodników jest ograniczona. Decyduje kolejność pobrań. Nie ma możliwości wcześniejszej rezerwacji.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Brama Poznania ICHOT, ul. Gdańska 2, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-23 00:00:00</event_start>
+        <event_end>2019-11-12 00:00:00</event_end>
+        <event_modified>2019-04-23 10:47:03</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>109888</event_id>
+        <event_created>2019-04-23 10:47:03</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/audiowycieczki-po-ostrowie-tumskim,109888.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Audiowycieczki po Ostrowie Tumskim]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>W Bramie Poznania z audioprzewodnikiem zwiedzić można nie tylko multimedialną ekspozycję, ale także Ostrów Tumski. Specjalnie dla zwiedzających przygotowano trzy audiowycieczki w sezonie wiosenno-letnim, który rozpoczyna się 23 kwietnia 2019. Na audiowycieczki można wybrać się od&#160;wtorku do niedzieli, w godzinach od 9:00 do16:00, oraz w weekendy, w&#160;godzinach od&#160; 10:00 do&#160;17:00.</p><p style="text-align: justify;"><a href="http://bramapoznania.pl/?p=926">po Ostrowie Tumskim dla rodzin</a></p><p><a href="http://bramapoznania.pl/oferta/zwiedzanie/audiowycieczki-ostrow-tumski/audiowycieczka-ostrow-tumski-mlodziezy-doroslych/">po Ostrowie Tumskim dla młodzieży i dorosłych</a>&#160; - dostępne w jezykach:&#160;polskim, angielskim, niemieckim, francuskim, czeskim, rosyjskim, ukraińskim oraz hiszpańskim.</p><p><a href="http://bramapoznania.pl/?p=928">po Bazylice Archikatedralnej dla młodzieży i dorosłych</a></p><p>Audioprzewodniki wypożyczane są w Punkcie Informacji w Śluzie Katedralnej w soboty i w niedziele, w&#160;godzinach otwarcia Bramy Poznania, jednakże nie później niż na 120 min. przed jego zamknięciem.<br />Bilety na audiowycieczki:</p><ul><li><span>bilet normalny: 5 zł</span></li><li><span>bilet ulgowy: 3 zł</span></li><li><span>bilet rodzinny: 10 zł</span></li></ul><p>Bilet normalny, ulgowy i rodzinny na Ekspozycję Bramy Poznania uprawnia do skorzystania z usługi audiowycieczki na Ostrów Tumski w terminie do 10 dni od zwiedzania Ekspozycji.</p><p>Liczba audioprzewodników jest ograniczona. Decyduje kolejność pobrań. Nie ma możliwości wcześniejszej rezerwacji.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Brama Poznania ICHOT, ul. Gdańska 2, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-23 00:00:00</event_start>
+        <event_end>2019-11-12 00:00:00</event_end>
+        <event_modified>2019-04-23 10:47:03</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>109946</event_id>
+        <event_created>2019-04-25 11:27:24</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/ulani-poznanscy-1919-2019,109946.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Ułani Poznańscy 1919 - 2019]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Wystawa przygotowana z okazji stulecia powstania Ułanów Poznańskich przybliża mieszkańcom miasta oddział, który był ważny dla jego historii. Od utworzenia w czasie powstania wielkopolskiego w grudniu 1918 Konnych Strzelców Straży Poznańskiej, przez 1 Pułk Ułanów Wielkopolskich w latach 1919-1920, aż do 1939 jako &quot;Pułk Piętnasty&quot;, uczestniczył w życiu miasta. Dzięki staraniom prezydenta Jarogniewa Drwęckiego Pułk w 1920 otrzymał swoją nazwę, a stołeczne miasto Poznań pełniło funkcję jego honorowego szefa. Popularnym wśród mieszkańców określeniem oddziału było &quot;Dzieci Poznania&quot;. Szacunek zdobyli udziałem w bojach w latach 1918-1919, 1919-1920, 1939 oraz 1944-1945.</p><p>Na powiększeniach archiwalnych zdjęć ukazana jest architektura militarna związana z Piętnastką, życie codzienne ułanów, widoki miasta w panoramach defilad, szczegóły umundurowania i oporządzenia. Na wystawie prezentowane są eksponaty z kolekcji Wielkopolskiego Muzeum Wojskowego i zbiorów prywatnych. Osoby, których losy związały z Pułkiem, przypomniane są przez szereg pamiątek i przedmiotów osobistych udostępnionych dzięki uprzejmości ułańskich rodzin.</p><p>O współczesnych jednostkach: 1 Batalionie Czołgów 15 Wielkopolskiej Brygady Kawalerii Pancernej i późniejszym 15 Batalionie Ułanów Poznańskich im. gen. broni Władysława Andersa z Wędrzyna, którym zostały przekazane tradycje 15 Pułku Ułanów Poznańskich, opowiadają m. in. filmy wideo i barwne fotografie.</p><p>Wystawa została przygotowana we współpracy z Towarzystwem byłych Żołnierzy i Przyjaciół 15 Pułku Ułanów Poznańskich.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Wielkopolskie Muzeum Wojskowe, ul. Stary Rynek 9, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-13 00:00:00</event_start>
+        <event_end>2019-10-06 00:00:00</event_end>
+        <event_modified>2019-04-25 11:31:49</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>109946</event_id>
+        <event_created>2019-04-25 11:27:24</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/ulani-poznanscy-1919-2019,109946.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Ułani Poznańscy 1919 - 2019]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Wystawa przygotowana z okazji stulecia powstania Ułanów Poznańskich przybliża mieszkańcom miasta oddział, który był ważny dla jego historii. Od utworzenia w czasie powstania wielkopolskiego w grudniu 1918 Konnych Strzelców Straży Poznańskiej, przez 1 Pułk Ułanów Wielkopolskich w latach 1919-1920, aż do 1939 jako &quot;Pułk Piętnasty&quot;, uczestniczył w życiu miasta. Dzięki staraniom prezydenta Jarogniewa Drwęckiego Pułk w 1920 otrzymał swoją nazwę, a stołeczne miasto Poznań pełniło funkcję jego honorowego szefa. Popularnym wśród mieszkańców określeniem oddziału było &quot;Dzieci Poznania&quot;. Szacunek zdobyli udziałem w bojach w latach 1918-1919, 1919-1920, 1939 oraz 1944-1945.</p><p>Na powiększeniach archiwalnych zdjęć ukazana jest architektura militarna związana z Piętnastką, życie codzienne ułanów, widoki miasta w panoramach defilad, szczegóły umundurowania i oporządzenia. Na wystawie prezentowane są eksponaty z kolekcji Wielkopolskiego Muzeum Wojskowego i zbiorów prywatnych. Osoby, których losy związały z Pułkiem, przypomniane są przez szereg pamiątek i przedmiotów osobistych udostępnionych dzięki uprzejmości ułańskich rodzin.</p><p>O współczesnych jednostkach: 1 Batalionie Czołgów 15 Wielkopolskiej Brygady Kawalerii Pancernej i późniejszym 15 Batalionie Ułanów Poznańskich im. gen. broni Władysława Andersa z Wędrzyna, którym zostały przekazane tradycje 15 Pułku Ułanów Poznańskich, opowiadają m. in. filmy wideo i barwne fotografie.</p><p>Wystawa została przygotowana we współpracy z Towarzystwem byłych Żołnierzy i Przyjaciół 15 Pułku Ułanów Poznańskich.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Wielkopolskie Muzeum Wojskowe, ul. Stary Rynek 9, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-13 00:00:00</event_start>
+        <event_end>2019-10-06 00:00:00</event_end>
+        <event_modified>2019-04-25 11:31:49</event_modified>
+        <category>Kultura i sztuka</category>
+    </event>
+    <event>
+        <event_id>107727</event_id>
+        <event_created>2019-01-12 08:01:26</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/poznanskie-centrum-mediacji-nieodplatne-mediacje-i-porady,107727.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Poznańskie Centrum Mediacji - nieodpłatne mediacje i porady]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Poznańskie Centrum Mediacji prowadzi nieodpłatne działania na rzecz mieszkańców Poznania, w tym m.in.:</p><ul><li><span>codzienne dyżury mediatorów: poniedziałek, środa, piątek 9.00-11.00 wtorek, czwartek 15.00-17.00</span></li><li><span>nieodpłatne mediacje, w tym również mediacje rodzinne oraz mediacje w szkołach</span></li></ul><p>Można przyjść osobiście: ul. Sienkiewicza 22/6, Poznań, zadzwonić: 578 897 388 lub 509 955 925, napisać:&#160;<a href="mailto:mediacjecentrum@gmail.com">mediacjecentrum@gmail.com</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Poznańskie Centrum Mediacji, ul. Sienkiewicza 22/6, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-08 00:00:00</event_start>
+        <event_end>2019-12-31 00:00:00</event_end>
+        <event_modified>2019-09-13 11:17:29</event_modified>
+        <category>Inne</category>
+    </event>
+    <event>
+        <event_id>107727</event_id>
+        <event_created>2019-01-12 08:01:26</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/poznanskie-centrum-mediacji-nieodplatne-mediacje-i-porady,107727.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Poznańskie Centrum Mediacji - nieodpłatne mediacje i porady]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Poznańskie Centrum Mediacji prowadzi nieodpłatne działania na rzecz mieszkańców Poznania, w tym m.in.:</p><ul><li><span>codzienne dyżury mediatorów: poniedziałek, środa, piątek 9.00-11.00 wtorek, czwartek 15.00-17.00</span></li><li><span>nieodpłatne mediacje, w tym również mediacje rodzinne oraz mediacje w szkołach</span></li></ul><p>Można przyjść osobiście: ul. Sienkiewicza 22/6, Poznań, zadzwonić: 578 897 388 lub 509 955 925, napisać:&#160;<a href="mailto:mediacjecentrum@gmail.com">mediacjecentrum@gmail.com</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Poznańskie Centrum Mediacji, ul. Sienkiewicza 22/6, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-04-08 00:00:00</event_start>
+        <event_end>2019-12-31 00:00:00</event_end>
+        <event_modified>2019-09-13 11:17:29</event_modified>
+        <category>Inne</category>
+    </event>
+    <event>
+        <event_id>107529</event_id>
+        <event_created>2019-01-04 13:45:39</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/imprezy-na-miedzynarodowych-targach-poznanskich,107529.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Imprezy na Międzynarodowych Targach Poznańskich]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Międzynarodowe Targi Poznańskie (MTP) to największy organizator targów w Europie Środkowo-Wschodnie. MTP istnieją od 1921 r. W roku 2017 w 57 wydarzeniach targowych organizowanych przez poznańskie Targi wzięło udział ponad 9 tys. wystawców, w tym ponad 1600 pochodzących z 59 krajów świata. MTP posiadają ok. 55% udziałów w rynku targowym w Polsce. Poznańskie Targi należą do organizacji skupiających liderów targowych z całego świata (UFI - Światowe Stowarzyszenie Przemysłu Targowego i Centrex - Międzynarodowy Związek Statystyk Targowych).</p><p>Międzynarodowe Targi Poznańskie posiadają 16 pawilonów o wysokim standardzie i dużej powierzchni (ponad 110 tys. m&#178; w halach wystawienniczych i prawie 35 tys. m&#178; terenu otwartego) oraz 81 nowoczesnych sal konferencyjnych. Należy również wspomnieć o najnowocześniejszej sali konferencyjno - koncertowej - Sali Ziemi, która może pomieścić prawie 2000 osób. Od 1 stycznia 2018 roku Targi są również operatorem hali widowiskowo-sportowej Arena przy ul. Wyspiańskiego w Poznaniu.</p><p><a href="http://www.mtp.pl/pl/kalendarium/">Kalendarium wydarzeń na Międzynarodowych Targach Poznańskich</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Międzynarodowe Targi Poznańskie, ul. Głogowska 10, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-01-04 00:00:00</event_start>
+        <event_end>2019-12-31 00:00:00</event_end>
+        <event_modified>2019-01-04 13:45:39</event_modified>
+        <category>Targi</category>
+    </event>
+    <event>
+        <event_id>107529</event_id>
+        <event_created>2019-01-04 13:45:39</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/imprezy-na-miedzynarodowych-targach-poznanskich,107529.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Imprezy na Międzynarodowych Targach Poznańskich]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Międzynarodowe Targi Poznańskie (MTP) to największy organizator targów w Europie Środkowo-Wschodnie. MTP istnieją od 1921 r. W roku 2017 w 57 wydarzeniach targowych organizowanych przez poznańskie Targi wzięło udział ponad 9 tys. wystawców, w tym ponad 1600 pochodzących z 59 krajów świata. MTP posiadają ok. 55% udziałów w rynku targowym w Polsce. Poznańskie Targi należą do organizacji skupiających liderów targowych z całego świata (UFI - Światowe Stowarzyszenie Przemysłu Targowego i Centrex - Międzynarodowy Związek Statystyk Targowych).</p><p>Międzynarodowe Targi Poznańskie posiadają 16 pawilonów o wysokim standardzie i dużej powierzchni (ponad 110 tys. m&#178; w halach wystawienniczych i prawie 35 tys. m&#178; terenu otwartego) oraz 81 nowoczesnych sal konferencyjnych. Należy również wspomnieć o najnowocześniejszej sali konferencyjno - koncertowej - Sali Ziemi, która może pomieścić prawie 2000 osób. Od 1 stycznia 2018 roku Targi są również operatorem hali widowiskowo-sportowej Arena przy ul. Wyspiańskiego w Poznaniu.</p><p><a href="http://www.mtp.pl/pl/kalendarium/">Kalendarium wydarzeń na Międzynarodowych Targach Poznańskich</a></p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Międzynarodowe Targi Poznańskie, ul. Głogowska 10, Poznań</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2019-01-04 00:00:00</event_start>
+        <event_end>2019-12-31 00:00:00</event_end>
+        <event_modified>2019-01-04 13:45:39</event_modified>
+        <category>Targi</category>
+    </event>
+    <event>
+        <event_id>106761</event_id>
+        <event_created>2018-11-30 12:54:56</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/bezplatne-badania-w-kierunku-tetniakow-aorty,106761.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Bezpłatne badania w kierunku tętniaków aorty]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Szpital Kliniczny Przemienienia Pańskiego UM zaprasza na bezpłatne badania przesiewowe w kierunku tętniaka aorty brzusznej osoby, które osiągnęły wiek 65 lat i powyżej oraz spełniają co najmniej trzy spośród poniższych czynników ryzyka:</p><ul><li><span>płeć męska</span></li><li><span>choroba wieńcowa</span></li><li><span>palenie tytoniu</span></li><li><span>nadciśnienie tętnicze</span></li><li><span>hiperlipidemia.</span></li></ul><p>Informacje na temat badań można uzyskać pod numerem infolinii: 514 198 499. Infolinia czynna od poniedziałku do piątku w godz: 7.30 - 12.00 oraz 16.00 - 17.00. Miejsce realizacji badań: Szpital Kliniczny Przemienienia Pańskiego UM w Poznaniu ul. Długa 1/2 61- 848 Poznań; wejście D, piętro pierwsze, gabinet 146.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Szpital Kliniczny Przemienienia Pańskiego UM w Poznaniu, ul. Długa 1/2</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2018-11-30 08:00:00</event_start>
+        <event_end>2020-12-31 15:00:00</event_end>
+        <event_modified>2018-11-30 13:28:35</event_modified>
+        <category>Inne</category>
+    </event>
+    <event>
+        <event_id>106761</event_id>
+        <event_created>2018-11-30 12:54:56</event_created>
+        <event_url><![CDATA[http://www.poznan.pl/mim/events/bezplatne-badania-w-kierunku-tetniakow-aorty,106761.html]]></event_url>
+        <event_version>
+            <version>
+                <evtml_name><![CDATA[Bezpłatne badania w kierunku tętniaków aorty]]></evtml_name>
+                <evtml_introtext/>
+                <evtml_desc><![CDATA[<p>Szpital Kliniczny Przemienienia Pańskiego UM zaprasza na bezpłatne badania przesiewowe w kierunku tętniaka aorty brzusznej osoby, które osiągnęły wiek 65 lat i powyżej oraz spełniają co najmniej trzy spośród poniższych czynników ryzyka:</p><ul><li><span>płeć męska</span></li><li><span>choroba wieńcowa</span></li><li><span>palenie tytoniu</span></li><li><span>nadciśnienie tętnicze</span></li><li><span>hiperlipidemia.</span></li></ul><p>Informacje na temat badań można uzyskać pod numerem infolinii: 514 198 499. Infolinia czynna od poniedziałku do piątku w godz: 7.30 - 12.00 oraz 16.00 - 17.00. Miejsce realizacji badań: Szpital Kliniczny Przemienienia Pańskiego UM w Poznaniu ul. Długa 1/2 61- 848 Poznań; wejście D, piętro pierwsze, gabinet 146.</p>]]></evtml_desc>
+                <lang>pl</lang>
+            </version>
+        </event_version>
+        <event_keywords>
+            <keyword/>
+        </event_keywords>
+        <event_address>
+            <city/>
+            <state/>
+            <street>Szpital Kliniczny Przemienienia Pańskiego UM w Poznaniu, ul. Długa 1/2</street>
+            <number/>
+            <postalcode/>
+            <phone/>
+            <lat>0.0</lat>
+            <lon>0.0</lon>
+            <fax/>
+        </event_address>
+        <event_author>Miejski Informator Multimedialny</event_author>
+        <event_start>2018-11-30 08:00:00</event_start>
+        <event_end>2020-12-31 15:00:00</event_end>
+        <event_modified>2018-11-30 13:28:35</event_modified>
+        <category>Inne</category>
+    </event>
+</root>
